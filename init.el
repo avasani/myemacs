@@ -482,4 +482,57 @@
 (sr-speedbar-open)
 (global-set-key (kbd "s-s") 'sr-speedbar-toggle)
 
+(setq gnus-select-method
+      '(nnimap "gmail"
+	              (nnimap-address "imap.gmail.com")
+		             (nnimap-server-port 993)
+			            (nnimap-stream ssl)))
+
+(setq message-send-mail-function 'smtpmail-send-it
+      smtpmail-starttls-credentials '(("smtp.gmail.com" 587 nil nil))
+      smtpmail-auth-credentials '(("smtp.gmail.com" 587
+				      "vasani.ashwin@gmail.com" nil))
+      smtpmail-default-smtp-server "smtp.gmail.com"
+      smtpmail-smtp-server "smtp.gmail.com"
+      smtpmail-smtp-service 587
+      gnus-ignored-newsgroups "^to\\.\\|^[0-9. ]+\\( \\|$\\)\\|^[\"]\"[#'()]")
+
+;; adjust this path:
+(add-to-list 'load-path "~/.emacs.d/emacs-jabber")
+(add-to-list 'load-path "~/.emacs.d/emacs-jabber/compat")
+;; For 0.7.1 and below:
+(require 'jabber)
+;; For 0.7.90 and above:
+(require 'jabber-autoloads)
+
+;;(setq jabber-username "vasani.ashwin")
+;;(;;setq jabber-password "ashwinmarvell2012")
+;;(setq jabber-nickname "Wildfire")
+;;(setq jabber-connection-type (quote ssl))
+;;(setq jabber-network-server "talk.google.com")
+;;(setq jabber-server "gmail.com")
+
+;;(defun jabber ()
+  ;;  (interactive)
+ ;;   (jabber-connect)
+;;    (switch-to-buffer "*-jabber-*"))
+
+(setq jabber-account-list
+    '(("vasani.ashwin@gmail.com" 
+       (:network-server . "talk.google.com")
+       (:connection-type . ssl))))
+
+(setq 
+  special-display-regexps 
+  '(("jabber-chat" 
+      (width . 80)
+     (scroll-bar-width . 16)
+     (height . 15)
+     (tool-bar-lines . 0)
+     (menu-bar-lines 0)
+     (font . "-GURSoutline-Courier New-normal-r-normal-normal-11-82-96-96-c-70-iso8859-1")
+     (left . 80))))
+
+(add-hook 'jabber-alert-message-hooks 'jabber-message-xmessage)
+
 ;;; init.el ends here
