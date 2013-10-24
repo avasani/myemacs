@@ -1,0 +1,2198 @@
+((("AF_EVT_USER_REQ_START_UAP" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("sr-speedbar-open" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [1 0 0 0])
+  ("sys_set_prov_status" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("sys" .
+   [1 0 0])
+  ("HTTP_CONTENT_JSON" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("sys_get_prov_status" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("level" .
+   [0 0 1 0 0])
+  ("GPIO_IO_LOW" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("uart_data_p" .
+   [0 0 1 1 0 0 0 0 0 0 0])
+  ("mdev" .
+   [1 0 0 0])
+  ("event_handled" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("app_w" .
+   [1 0 0 0 0])
+  ("block_read_sem" .
+   [0 0 0 1 0 0 0 0 1 0 0 0 0 0])
+  ("CONFIG_WAKELOCK_DEBUG" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("atoi" .
+   [0 0 1 0])
+  ("os_semaphore_put" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2])
+  ("os_semaphore_get" .
+   [0 0 0 0 0 3 0 0 0 0 0 0 0 1 1 0])
+  ("shutdown_sem" .
+   [1 0 3 2 0 0 0 0 0 0 0 0])
+  ("os_semaphore_create_counting" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Shutdown" .
+   [0 0 0 0 1 0 0 0])
+  ("os_semaphore_t" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0 0])
+  ("pm_mc200_state" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("shutdown_req" .
+   [1 0 1 0 0 0 0 0 0 0 0 0])
+  ("inline" .
+   [1 0 0 1 0 1])
+  ("serial_mwm_get_ieee_listen_interval" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("strlen" .
+   [1 0 0 0 0 0])
+  ("AF_EVT_CRITICAL" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("start_uap_or_sta" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("ps_state" .
+   [0 0 0 2 1 0 0 0])
+  ("AF_EVT_PS_ENTER" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("total" .
+   [0 0 0 1 1])
+  ("mwm_response" .
+   [0 0 0 0 0 0 2 0 0 0 0 0])
+  ("os_semaphore_getcount" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("os_semaphore_delete" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("count" .
+   [1 0 0 0 0])
+  ("scan" .
+   [1 0 0 0])
+  ("nfc" .
+   [2 0 0])
+  ("500000" .
+   [1 0 0 0 0 0])
+  ("1500000" .
+   [0 0 0 3 0 0 0])
+  ("0x100" .
+   [0 0 1 0 0])
+  ("GET_UART_DMA_RX_HWHS_CONFIG" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("DEFINE_UART_DMA_RX_HWHS_CONFIG" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("GET_HS_MAP_WITH_RX" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UART_DMA_RX_IFACE_BASE" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dma_rx_config" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("uart_dma_rx_config" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("id" .
+   [6 0])
+  ("port_id_base" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("GET_UART_BASE" .
+   [1 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("uart_id" .
+   [0 0 0 0 0 1 0])
+  ("map_id" .
+   [2 0 0 0 0 0])
+  ("GET_IFACE" .
+   [1 0 0 1 1 0 0 0 0])
+  ("DEFINE_UART_DMA_HS_CONFIG" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("map" .
+   [5 0 0])
+  ("inter" .
+   [0 0 1 0 0])
+  ("base" .
+   [1 0 0 0])
+  ("DMA_HsMapping_Type" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("DMA_HwHsInter_Type" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("512" .
+   [6 0 0])
+  ("buf_out_len" .
+   [0 0 1 1 0 0 0 0 0 0 0])
+  ("abtRxBuf" .
+   [0 0 0 0 0 0 1 0])
+  ("abtRx" .
+   [0 0 1 0 1])
+  ("rlen" .
+   [0 0 3 0])
+  ("PN532_MODULATION_FELICA_212KBPS" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("MAX_RES_LEN" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("pn532_get_init_dev" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("abtCommand_init_dev" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("0x44" .
+   [1 0 0 0])
+  ("0x88" .
+   [1 0 0 0])
+  ("0x56" .
+   [1 0 0 0])
+  ("PN532_COMMAND_TGINITASTARGET" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("$$" .
+   [1 0])
+  ("nfc_read_card" .
+   [0 0 0 0 1 0 1 1 0 0 0 0 0])
+  ("sec" .
+   [2 0 0])
+  ("max_len" .
+   [0 0 0 3 1 0 0])
+  ("memmem" .
+   [2 0 0 1 0 1])
+  ("nfc_get_network_cfg" .
+   [1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("passphrase_start" .
+   [0 0 0 0 2 0 0 0 0 0 0 1 3 1 0 0])
+  ("passphrase_end" .
+   [0 0 0 2 1 0 0 0 0 0 0 0 3 0])
+  ("sec_start" .
+   [1 0 3 3 0 0 0 0 0])
+  ("strstr" .
+   [0 0 0 2 0 0])
+  ("ssid_end" .
+   [2 0 2 3 1 0 0 0])
+  ("ssid_start" .
+   [2 0 4 1 1 1 1 1 0 0])
+  ("passphrase" .
+   [2 0 2 3 2 0 0 0 0 0])
+  ("pass" .
+   [3 0 0 0])
+  ("net" .
+   [1 0 0])
+  ("ssid" .
+   [1 0 1 0])
+  ("end_net" .
+   [0 0 0 1 1 0 0])
+  ("end" .
+   [2 0 0])
+  ("nfcbuf" .
+   [1 0 0 0 1 0])
+  ("NFCID" .
+   [0 0 0 1 0])
+  ("start_net" .
+   [1 0 1 2 2 2 1 0 0])
+  ("config_net" .
+   [2 0 0 1 0 0 0 0 0 0])
+  ("responseLen" .
+   [1 0 1 3 0 0 0 0 0 0 0])
+  ("pos" .
+   [3 1 0])
+  ("abtCommand_read" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 1 0])
+  ("0x04" .
+   [10 0 1 0])
+  ("0x40" .
+   [2 0 0 0])
+  ("response" .
+   [1 0 1 5 0 0 0 0])
+  ("abtCommand_xchng" .
+   [0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0])
+  ("0x32" .
+   [1 0 0 0])
+  ("0x58" .
+   [1 0 0 0])
+  ("0x12" .
+   [1 0 0 1])
+  ("0x07" .
+   [3 0 0 0])
+  ("0x60" .
+   [1 0 0 0])
+  ("0x01" .
+   [12 0 0 0])
+  ("PN532_COMMAND_INDATAEXCHANGE" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("PN532_COMMAND_INCOMMUNICATETHRU" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("GPIO_35" .
+   [2 0 0 0 0 0 0])
+  ("GPIO_34" .
+   [2 0 0 0 0 0 0])
+  ("000" .
+   [2 0 0])
+  ("TMP_BUF_LEN" .
+   [0 0 1 1 0 0 0 0 0 0 0])
+  ("1023" .
+   [2 0 0 0])
+  ("32" .
+   [3 0])
+  ("DMA_HW_HS_INTER_1" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("DMA_HW_HS_INTER_4" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("de" .
+   [1 0])
+  ("0x2000000" .
+   [0 0 0 0 0 0 1 0 0])
+  ("UART_MAX_DMA_WAIT" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("SSP_MAX_DMA_WAIT" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("DMA_MAX_BLK_SIZE" .
+   [1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("dma_trans" .
+   [2 0 0 0 0 2 1 0 0])
+  ("DMA_MEM_TO_PER" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("DMA_PER_TO_MEM" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("transfType" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("DMA_ITEM_16" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("DMA_ITEM_8" .
+   [4 0 0 0 0 0 0 0 0 0])
+  ("ENABLE" .
+   [0 0 1 0 1 0])
+  ("dmaChannel_tx" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UART3" .
+   [1 0 0 0 0])
+  ("UART2" .
+   [1 0 0 0 0])
+  ("UART_DMA_DISABLE" .
+   [0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0])
+  ("sentData" .
+   [1 0 0 0 0 0 0 0])
+  ("toBeSentLength" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("operation" .
+   [2 0 0 0 0 0 0 0 0])
+  ("dma" .
+   [17 0 0])
+  ("cnt" .
+   [17 0 3])
+  ("DMA_CFG_Type" .
+   [2 0 0 0 0 0 1 0 0 0 0 0])
+  ("SSP_IntClr" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("tlen" .
+   [2 0 0 0])
+  ("WAKE_ON_UNICAST" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("wakelock_get" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("set_disable_cloud_status" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Cloud" .
+   [0 0 0 1 0])
+  ("tx" .
+   [1 0])
+  ("cur" .
+   [3 0 0])
+  ("SYS_CLOCK" .
+   [0 0 1 1 0 0 0 0 0])
+  ("15000000" .
+   [0 0 0 0 0 1 0 0])
+  ("checksum" .
+   [0 0 0 0 1 0 0 0])
+  ("hwfifo_size" .
+   [0 0 1 0 0 0 0 0 0 0 0])
+  ("divider" .
+   [0 0 0 0 1 0 0])
+  ("DEFAULT_SSP_FREQ" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("freq" .
+   [1 0 0 2])
+  ("ssp_id" .
+   [2 0 0 0 0 0])
+  ("SSP_ID_Type" .
+   [0 0 0 0 0 1 1 0 0 0 0])
+  ("ssp_drv_set_clk" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("old_cfg" .
+   [0 0 0 1 0 0 0])
+  ("prv_cfg" .
+   [0 0 1 0 0 0 0])
+  ("only_start" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("catch" .
+   [5 0 0 0 0])
+  ("load" .
+   [1 0 0 0])
+  ("is_prov" .
+   [0 0 1 0 0 0 0])
+  ("JSON" .
+   [1 0 0 0])
+  ("init" .
+   [1 0 0 0])
+  ("prov_init_done" .
+   [1 0 0 0 0 0 0 0 0 0 1 1 0 0])
+  ("cfg" .
+   [5 0 0])
+  ("select_reboot" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("reboot" .
+   [10 0 0 0 0 0])
+  ("page" .
+   [1 0 0 0])
+  ("select_resetprov" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("prov_init" .
+   [1 0 1 1 0 0 1 0 0])
+  ("CLK_AUPLL" .
+   [1 0 0 0 0 0 0 0 0])
+  ("500" .
+   [2 0 0])
+  ("I2C_SLV_ADDR" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("options" .
+   [0 0 0 1 0 0 0])
+  ("innerHTML" .
+   [0 0 0 0 0 1 0 0 0])
+  ("accelerometer" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("is_approx_range" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("low" .
+   [1 0 0])
+  ("min" .
+   [2 0 0])
+  ("is_acc_motion" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("accMotion" .
+   [0 0 0 2 2 0 0 0 0])
+  ("is_motion" .
+   [0 0 2 0 2 0 1 0 0])
+  ("accY" .
+   [2 0 0 1])
+  ("accZ" .
+   [2 0 0 0])
+  ("preY" .
+   [1 0 0 3])
+  ("preZ" .
+   [2 0 0 4])
+  ("accX" .
+   [2 0 0 4])
+  ("preX" .
+   [0 0 0 5])
+  ("Range" .
+   [0 0 0 1 0])
+  ("barColor" .
+   [0 0 0 0 1 0 0 0])
+  ("bar" .
+   [1 0 0])
+  ("shift" .
+   [1 0 4 2 1])
+  ("AQIPM25" .
+   [0 0 0 3 0 0 0])
+  ("AQIvalues" .
+   [0 0 0 1 1 1 0 0 0])
+  ("200" .
+   [1 0 0])
+  ("s_motion" .
+   [0 0 0 0 1 0 0 0])
+  ("push" .
+   [12 0 2 1])
+  ("activityvalues" .
+   [0 0 3 0 2 0 0 0 0 0 0 0 0 0])
+  ("airqvalues" .
+   [0 0 0 2 1 0 0 0 0 0])
+  ("air" .
+   [1 0 0])
+  ("wm_demo_gpio_init" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("wm_demo_accelerometer_sensor_init" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("wm_demo_motion_sensor_init" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("wm_demo_get_air_quality" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("gpio_num" .
+   [0 0 0 0 1 0 0 0])
+  ("motion_gpio_num" .
+   [0 0 0 0 0 0 1 1 0 0 0 0 0 0 0])
+  ("mobile" .
+   [0 0 0 1 0 0])
+  ("browser" .
+   [0 0 0 1 0 0 0])
+  ("Browser" .
+   [0 0 0 1 0 0 0])
+  ("jQuery" .
+   [1 0 0 0 0 0])
+  ("sysinfo_timer_active" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("status" .
+   [2 0 0 0 1 0])
+  ("network" .
+   [3 0 0 2 0 0 0])
+  ("wlan_get_network_byname" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("wlan_get_network" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("is_from_adv_nw_change" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("is_uap_started" .
+   [1 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("refresh_btn_clicked" .
+   [1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("reqStatus" .
+   [0 0 0 1 0 0 0 0 0])
+  ("2000" .
+   [2 0 0 0])
+  ("is_uap" .
+   [1 0 4 0 0 0])
+  ("html" .
+   [8 0 0 0])
+  ("true" .
+   [7 0 2 0])
+  ("false" .
+   [1 0 0 3 0])
+  ("show_main_page" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("FLASH_Read" .
+   [0 0 1 0 0 0 0 0 0 0])
+  ("get_connecting_mode" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("get_mode_done" .
+   [0 0 0 0 0 0 0 0 0 2 0 0 0])
+  ("error_connection" .
+   [0 0 0 0 1 2 1 0 0 0 0 0 0 0 0 0])
+  ("function" .
+   [2 0 0 30 5 0 0 0])
+  ("hide" .
+   [28 0 1 0])
+  ("try_attepmt" .
+   [0 0 1 1 0 1 0 0 0 0 0])
+  ("try" .
+   [5 0 0])
+  ("var" .
+   [41 0 0])
+  ("network_set_cb" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("/tmp/" .
+   [0 0 1 0 0])
+  ("tee" .
+   [1 0 0])
+  ("ftfs" .
+   [1 0 0 0])
+  ("perf_demo_ssid" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("app_provisioning_stop" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("app_sta_start" .
+   [1 0 0 1 0 2 0 0 0 0 0 0 0])
+  ("PROVISIONING_WPS" .
+   [1 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("PROVISIONING_WLANNW" .
+   [0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("app_provisioning_start" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("APP_NETWORK_NOT_PROVISIONED" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("AF_EVT_WLAN_INIT_DONE" .
+   [0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("WPSPBCClean" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("FTFS_API_VERSION" .
+   [0 0 0 0 3 0 0 1 0 0 0 0 0 0 0 0])
+  ("app_httpd_with_fs_start" .
+   [0 0 0 0 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("err" .
+   [9 0 0])
+  ("app_httpd_stop" .
+   [0 0 0 1 0 1 0 1 0 0 0 0 0 0])
+  ("AF_EVT_PROV_WPS_REQ_TIMEOUT" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("AF_EVT_PROV_WPS_START" .
+   [0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("is_wps" .
+   [0 0 7 1 2 0])
+  ("from_provisioning" .
+   [1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0])
+  ("node" .
+   [3 0 0 0])
+  ("I2C_START" .
+   [1 0 0 0 0 0 0 0 0])
+  ("GPIO_11" .
+   [1 0 0 0 0 0 0])
+  ("mc200_final_about_to_die_cb" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("mc200_healthmon_init_and_register" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("healthmon_init" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("healthmon_register_cli" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("fw_about_to_die" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("about" .
+   [0 0 1 0 0])
+  ("fw_is_sick" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("FW_NAME" .
+   [0 0 1 0 0 0 0])
+  ("handler" .
+   [0 0 2 4 1 0 0])
+  ("is_fw_sick" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("healthmon" .
+   [0 0 0 4 1 0 0 0 0])
+  ("module" .
+   [1 0 0 0 0 0])
+  ("partition_entries_no" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("partition" .
+   [0 0 2 0 0 0 0 0 0])
+  ("type" .
+   [3 0 1 0])
+  ("block_size" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("f" .
+   [1])
+  ("__LINE__" .
+   [0 0 1 0 0 0 0 0])
+  ("printf" .
+   [1 0 1 0 4 1])
+  ("mc200_board_init" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("mc200_demo" .
+   [0 0 1 0 0 0 0 0 0 0])
+  ("pm_init" .
+   [0 0 0 0 0 0 1])
+  ("FL_PART_SIZE" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("WM_E_IO" .
+   [1 0 0 0 0 0 0])
+  ("crc32_init" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("version" .
+   [0 0 0 0 1 0 0])
+  ("Partition" .
+   [0 0 1 1 0 0 0 0 0])
+  ("PARTITION_TABLE_VERSION" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("g_flash_table" .
+   [2 0 2 0 0 0 0 0 0 1 0 0 0])
+  ("crc" .
+   [4 0 0])
+  ("0x4A" .
+   [0 0 0 1])
+  ("wm_os" .
+   [0 0 1 0 0])
+  ("uart_drv_write" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("wbuf" .
+   [2 0 1 3])
+  ("ssp0" .
+   [1 0 0 0])
+  ("BUF_LEN" .
+   [0 0 3 6 0 0 0])
+  ("DTP_EOF" .
+   [0 0 0 0 0 0 1])
+  ("is_sof_started" .
+   [0 0 4 0 0 0 0 0 0 0 0 0 0 0])
+  ("DTP_SOF" .
+   [1 0 0 0 0 0 0])
+  ("dtp_msg" .
+   [0 0 1 4 0 0 0])
+  ("DTP_DEMO_FRAME_MAX" .
+   [1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("time_sec" .
+   [0 0 0 1 0 0 0 0])
+  ("cmd_resp" .
+   [0 0 0 3 0 1 1 0])
+  ("dtp_response_ptr" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0])
+  ("dtp_response" .
+   [0 0 0 4 1 0 1 0 0 0 0 0])
+  ("./t.p" .
+   [0 0 1 0 0])
+  ("shell" .
+   [1 0 0 0 0])
+  ("./workspace/" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("/artifacts/wmapps" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("/artifacts/" .
+   [0 0 1 0 0 0 0 0 0 0 0])
+  ("artifacts/wmapps/internal" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("artifacts/wmapps.tar.gz" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("artifacts/" .
+   [0 0 1 0 0 0 0 0 0 0])
+  ("/wmapps/" .
+   [0 0 0 1 0 0 0 0])
+  ("copy_wmsdk" .
+   [0 0 0 1 1 0 0 0 0 0])
+  ("make_wmsdk_tar" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("make_wmapps_tar" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("MAKE" .
+   [3 0 0 0])
+  ("/src" .
+   [2 0 0 0])
+  ("next_available_slot" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("net_check_iface_mask" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UART0_ID" .
+   [0 0 1 1 1 0 0 0])
+  ("wmstdio_init" .
+   [0 0 0 1 0 1 0 0 0 0 0 0])
+  ("wm_core_init" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("error" .
+   [14 0 3 3 1])
+  ("sinme" .
+   [5 0 0 0 1])
+  ("I" .
+   [1])
+  ("jstr" .
+   [3 0 0 0])
+  ("obj" .
+   [2 0 0])
+  ("wsgi_handler_all_iface" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("wsgi_handler_uap_iface" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("gca_demo_configure_defaults" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("fileInput" .
+   [0 0 0 0 0 1 0 0 0])
+  ("application" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("setRequestHeader" .
+   [0 0 0 2 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("xhr" .
+   [3 0 0])
+  ("W" .
+   [3])
+  ("iface_handle" .
+   [5 0 7 27 1 6 0 0 0 0 0 0])
+  ("MDNS_CTRL_REMOVE_SERVICE" .
+   [0 0 0 0 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("sockaddr_in" .
+   [0 0 0 0 0 0 0 0 0 1 1])
+  ("sockaddr" .
+   [1 0 0 0 1 0 0 0])
+  ("socket" .
+   [0 0 0 1 0 0])
+  ("STARTED" .
+   [0 0 0 1 0 0 0])
+  ("RESP_EVT" .
+   [0 0 0 0 2 0 0 0])
+  ("STOP_EVT" .
+   [0 0 1 0 0 0 0 0])
+  ("enum" .
+   [1 0 0 0])
+  ("send_close_probe" .
+   [0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("INIT_EVT" .
+   [0 0 0 2 0 0 0 0])
+  ("select_event" .
+   [1 0 0 1 0 1 1 0 0 0 0 0])
+  ("RUNNING" .
+   [1 0 0 0 2 0 1])
+  ("case" .
+   [9 0 2 0])
+  ("INIT" .
+   [2 0 0 0])
+  ("switch" .
+   [1 0 0 0 0 0])
+  ("wm_demo_mdns_stop" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("wm_demo_mdns_start" .
+   [0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("msg" .
+   [4 0 11])
+  ("mdns_iface_state_change" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("mdns_iface_state" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("remove_mdns_service_iface" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("mdns" .
+   [1 0 1 0])
+  ("iface" .
+   [10 0 0 0 0])
+  ("remove" .
+   [1 0 0 0 0 0])
+  ("STOPPED" .
+   [0 0 2 4 1 1 0])
+  ("interface_state" .
+   [1 0 0 0 0 0 0 0 0 0 4 3 0 0 0])
+  ("get_min_timeout" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("idx" .
+   [8 0 0])
+  ("stop" .
+   [0 0 1 0])
+  ("recalc_timeout_all" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("wlan_mode" .
+   [0 0 1 0 0 0 0 0 0])
+  ("event" .
+   [3 0 0 0 0])
+  ("events" .
+   [0 0 4 2 0 1])
+  ("probe_wait_time" .
+   [9 0 14 6 0 0 0 0 0 0 0 0 0 0 0])
+  ("timeout" .
+   [16 0 1 6 2 2 0])
+  ("recalc_timeout" .
+   [1 0 0 2 2 1 0 0 0 0 0 0 0 0])
+  ("start_wait" .
+   [2 0 0 4 2 4 0 0 0 0])
+  ("DBG" .
+   [6 0 0])
+  ("LOG" .
+   [7 0 1])
+  ("qinterface" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("qnum_config_g" .
+   [0 0 1 0 1 0 0 0 0 0 0 0 0])
+  ("mdns_service_config" .
+   [1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("incoming_ip" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("interface_mask" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("interface_ip" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("get_config_idx" .
+   [0 0 0 0 1 0 1 0 0 0 0 0 0 0])
+  ("config_g" .
+   [8 0 0 0 0 0 0 3])
+  ("get_interface_ip" .
+   [0 0 0 4 2 0 1 0 0 0 0 0 0 0 0 0])
+  ("config_idx" .
+   [3 0 0 29 0 0 2 14 4 0])
+  ("get_interface_handle" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("incoming" .
+   [1 0 0 0 0 1 0 0])
+  ("documentation" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("to" .
+   [3 0])
+  ("ntohs" .
+   [0 0 0 1 0])
+  ("my_ipaddr" .
+   [2 0 10 1 0 0 0 0 0])
+  ("w" .
+   [2])
+  ("so" .
+   [1 0])
+  ("addr" .
+   [2 0 0 1])
+  ("sin_port" .
+   [1 0 0 0 0 0 0 0])
+  ("output_interface" .
+   [0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("port" .
+   [5 0 0 0])
+  ("inet_addr" .
+   [0 0 0 1 0 0 0 0 0])
+  ("s_addr" .
+   [2 0 3 0 0 1])
+  ("imr_interface" .
+   [1 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("mc" .
+   [5 0])
+  ("ip_mreq" .
+   [0 0 0 0 1 0 0])
+  ("net_get_if_ip_addr" .
+   [2 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("proto" .
+   [0 0 1 0 0])
+  ("inet_ntoa" .
+   [2 0 0 0 2 0 0 0 0])
+  ("sin_addr" .
+   [5 0 0 5 0 0 0 0])
+  ("from" .
+   [9 0 2 0])
+  ("info" .
+   [2 0 0 0])
+  ("interface_info" .
+   [1 0 0 1 0 2 1 0 0 0 0 0 0 0])
+  ("mdns_interface_info" .
+   [0 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0])
+  ("interface" .
+   [2 0 21 1 0 4 1 0 0])
+  ("net_get_mlan_handle" .
+   [0 0 0 4 2 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("BOARD" .
+   [7 0 0 0 0])
+  ("exit" .
+   [1 0 0 0])
+  ("mkdir" .
+   [1 0 0 0 0])
+  ("ARTIFACTS_DIR" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("./artifacts/" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("-fr" .
+   [3 0 0])
+  ("format" .
+   [1 0 0 0 0 0])
+  ("byte" .
+   [1 0 0 0])
+  ("MAC_SIZE" .
+   [0 0 0 1 1 0 0 0])
+  ("userif_wait_for_cmdresp_t" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("host_RET_MAC_MULTICAST_ADR" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("userif_put_command_lock" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("50" .
+   [1 0])
+  ("Response" .
+   [1 0 0 2 0 0 0 0])
+  ("SD878X_LOG" .
+   [1 0 0 0 0 0 0 1 0 0])
+  ("userif_get_command_lock" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("userif" .
+   [0 0 0 0 1 0])
+  ("os_mem_free" .
+   [0 0 0 0 0 3 3 0 0 0 0])
+  ("maxlen" .
+   [1 0 0 0 0 0])
+  ("p" .
+   [6])
+  ("wlan" .
+   [2 0 0 0])
+  ("userif_set_mac_multicast_addr" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("mcast_mutex" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("os_mutex_t" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("memcpy" .
+   [0 0 0 0 2 0])
+  ("mac_list" .
+   [1 0 1 0 0 0 0 0])
+  ("mc_addr" .
+   [0 0 1 0 0 0 0])
+  ("params" .
+   [0 0 1 3 0 0])
+  ("hostcmd" .
+   [0 0 0 0 1 0 0])
+  ("sdiopkt" .
+   [0 0 0 0 1 0 0])
+  ("MAX_MCAST_LEN" .
+   [0 0 1 4 0 0 0 0 0 0 0 0 0])
+  ("h" .
+   [4])
+  ("c" .
+   [39])
+  ("mlist" .
+   [4 0 4 0 1])
+  ("u" .
+   [3])
+  ("wlan_set_mac_multicast_addr" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("WMFAIL" .
+   [0 0 0 2 0 0])
+  ("OS_SUCCESS" .
+   [0 0 1 1 0 0 0 0 0 0])
+  ("curr_node" .
+   [1 0 7 3 0 0 0 0 0])
+  ("prev_node" .
+   [0 0 0 6 0 0 0 0 0])
+  ("remove_node" .
+   [0 0 0 2 0 0 0 0 0 0 0])
+  ("ip" .
+   [14 0])
+  ("os_mem_alloc" .
+   [1 0 0 0 3 3 2 0 0 0 0 0])
+  ("new_node" .
+   [1 0 1 5 0 0 0 0])
+  ("node_t" .
+   [6 0 4 0 12 0])
+  ("next" .
+   [18 0 0 0])
+  ("sizeof" .
+   [5 0 0 1 0 0])
+  ("start_list" .
+   [2 0 9 1 0 2 0 0 0 0])
+  ("mcast_filter" .
+   [0 0 3 0 4 0 0 0 0 0 0 0])
+  ("ipaddr" .
+   [3 0 21 0 1 0])
+  ("dtp_drv_spi_recv_start" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dtp_drv_spi_hw_proto_init" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dtp_drv" .
+   [0 0 0 0 0 1 0])
+  ("SPI_SCPOL_HIGH" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("SPI_SCPHA_1_2" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("0xff" .
+   [18 0 6 1])
+  ("dtp_drv_recv_thread" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("os_thread_arg_t" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("eof_loc" .
+   [0 0 1 2 0 0 0])
+  ("sof_loc" .
+   [0 0 2 2 0 0 0])
+  ("ssp_drv_write" .
+   [0 0 0 0 0 1 0 0 0 0 1 0 0])
+  ("os_thread_sleep" .
+   [0 0 2 6 2 1 0 4 0 0 0 0 0 0 0])
+  ("WM_SUCCESS" .
+   [1 0 11 6 5 0 0 0 0 0])
+  ("os_msec_to_ticks" .
+   [0 0 2 4 9 1 0 0 0 0 0 0 0 0 0 0])
+  ("260" .
+   [1 0 0])
+  ("0XFF" .
+   [1 0 0 0])
+  ("SSP0_IRQn_BASE" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("SSP_IRQn_BASE" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("1000" .
+   [10 0 0 0])
+  ("100" .
+   [11 0 0])
+  ("0xaa" .
+   [1 0 0 0])
+  ("private_data" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("SPI_DUMMY_BYTE" .
+   [1 0 0 3 1 1 0 0 0 0 0 0 0 0])
+  ("define" .
+   [24 0 8 3 1 2])
+  ("SSP_SLAVE" .
+   [5 0 0 0 2 0 0 0 0])
+  ("SSP_RecvData" .
+   [0 0 1 0 0 0 2 0 0 0 0 0])
+  ("SSP_GetRxFifoLevel" .
+   [0 0 0 0 4 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("SSP_FIFO_DEPTH" .
+   [1 0 0 0 0 0 1 0 1 0 0 0 0 0])
+  ("ticks" .
+   [1 0 0 0 0])
+  ("mdev_p" .
+   [11 0 1 4 4 0])
+  ("tx_buf_empty" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("os_exit_critical_section" .
+   [0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("temp" .
+   [18 0 0 0])
+  ("wmprintf" .
+   [4 0 177 27 12 0 2 0])
+  ("write_data" .
+   [1 0 2 1 4 0 1 0 0 0])
+  ("rev" .
+   [1 0 0])
+  ("BIN" .
+   [2 0 0])
+  ("BIN_SEARCH" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("/home/" .
+   [0 0 0 0 1 0])
+  ("LAYOUT" .
+   [1 0 0 0 0 0])
+  ("/home/Marvell/work/GIT/wmapps/tools/mc2k/OpenOCD/flashprog.sh" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("/home/Marvell/work/GIT/wmapps/tools/mc2k/OpenOCD/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("/home/Marvell/work/GIT/wmapps/tools/mc2k/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("/home/Marvell/work/GIT/wmapps/tools/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("/home/Marvell/work/GIT/wmapps/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("/home/Marvell/work/GIT/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0])
+  ("/home/Marvell/work/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0])
+  ("/home/Marvell/" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("mdev_ssp" .
+   [2 0 0 0 0 0 0 0])
+  ("read_rx_buf" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("uint32_t" .
+   [5 0 2 24 14 0 2 0])
+  ("uint32" .
+   [3 0 0 1 3 0])
+  ("s" .
+   [31])
+  ("rx_buf_full" .
+   [0 0 0 1 0 2 0 0 0 0 0])
+  ("rx_buf_empty" .
+   [0 0 3 0 0 0 0 0 0 1 0 0])
+  ("tx_buf_full" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("len" .
+   [95 0 0])
+  ("write_tx_buf" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("num" .
+   [16 0 0])
+  ("endif" .
+   [19 0 6 10 1])
+  ("ssp" .
+   [2 0 0])
+  ("SSP_INT_TFEI" .
+   [0 0 0 0 0 0 0 0 2 1 0 0])
+  ("SSP_STATUS_TFNF" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("SSP_STATUS_RFNE" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("SSP_SendData" .
+   [0 0 0 0 0 0 3 0 0 0 0 0])
+  ("read_tx_buf" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("write_rx_buf" .
+   [0 0 0 0 1 3 0 0 0 0 0 0])
+  ("r" .
+   [17])
+  ("SSP_LOG" .
+   [2 0 1 7 4 4 1])
+  ("data" .
+   [104 0 4 1])
+  ("while" .
+   [29 0 0 3 0])
+  ("for" .
+   [34 1 1])
+  ("in" .
+   [1 0])
+  ("SSP0_ID" .
+   [0 0 3 4 3 0 0])
+  ("d" .
+   [16])
+  ("ac-dictionary-directories" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("SSP_INT_RFFI" .
+   [1 0 0 0 0 0 0 2 0 0 2 0])
+  ("ssp_cd_p" .
+   [0 0 0 0 0 1 0 0])
+  ("void" .
+   [54 0 2 2])
+  ("INT_SSP0" .
+   [1 0 0 0 0 0 0 0])
+  ("install_int_callback" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("RESET" .
+   [0 0 0 1 0])
+  ("UART_COMP_DMA_EXTRA" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("UART_COMP_UART_ADD_ENCODED_PARAMS" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UART_COMP_SHADOW" .
+   [0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0])
+  ("UART_COMP_FIFO_STAT" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 3 0 0 1 0 0])
+  ("UART_COMP_FIFO_ACCESS" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0])
+  ("UART_COMP_SIR_LP_MODE" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0])
+  ("UART_COMP_SIR_MODE" .
+   [0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0])
+  ("UART_COMP_THRE_MODE" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0])
+  ("DMA_EXTRA" .
+   [0 0 0 2 0 0 0 0 0])
+  ("UART_COMP_" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("UART_ADD_ENCODED_PARAMS" .
+   [0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("SHADOW" .
+   [0 0 0 2 0 0])
+  ("FIFO_STAT" .
+   [0 0 0 0 1 0 1 0 0])
+  ("UART_COMP_ADDITIONAL_FEAT" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("include" .
+   [19 1 1 3 5 1 0])
+  ("pin" .
+   [2 0 0])
+  ("gpio_t" .
+   [2 0 1 0 0 0])
+  ("IOCTL_GPIO_SET_DIR" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("else" .
+   [114 2 2 1])
+  ("cmd" .
+   [34 0 0])
+  ("IOCTL_GPIO_SET_OUTPUT" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UINT8" .
+   [0 0 0 0 3])
+  ("int" .
+   [127 0 0])
+  ("gpio_param" .
+   [0 0 0 0 2 0 1 1 0 0])
+  ("arg" .
+   [2 0 0])
+  ("if" .
+   [78 0])
+  ("state" .
+   [5 0 0 1 1])
+  ("n" .
+   [14])
+  ("gpio_close" .
+   [0 0 1 0 0 0 0 0 0 0])
+  ("gpio_open" .
+   [0 0 0 1 0 0 0 0 0])
+  ("dev" .
+   [40 0 0])
+  ("return" .
+   [26 0 31 27 4 1])
+  ("MDEV_NAME_gpio" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("char" .
+   [32 0 0 2])
+  ("static" .
+   [19 0 1 7 6 0])
+  ("NULL" .
+   [58 0 1 0])
+  ("MDEV_gpio" .
+   [8 0 0 0 0 0 0 0 0])
+  ("gpio" .
+   [13 0 0 0])
+  ("mdev_t" .
+   [0 0 1 1 1 0])
+  ("ssdp_shutdown" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("struct" .
+   [19 0 11 5 0 0])
+  ("parse_options" .
+   [0 0 2 1 0 2 0 0 0 0 0 0 0])
+  ("ssdp_mutex" .
+   [0 0 4 1 1 0 1 0 0 0])
+  ("os_mutex_put" .
+   [0 0 3 2 0 0 0 0 0 0 0 0])
+  ("os_mutex_get" .
+   [0 0 0 2 1 0 0 1 0 0 0 0])
+  ("OS_WAIT_FOREVER" .
+   [1 0 1 3 1 0 0 0 1 0 0 0 0 0 0])
+  ("gpio_mutex" .
+   [0 0 1 0 1 0 0 1 0 0])
+  ("ret" .
+   [52 0 0])
+  ("os_mutex_delete" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("WAIT_FOREVER" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("OS_MUTEX_INHERIT" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("WM_FAIL" .
+   [2 0 12 1 3 0 0])
+  ("defalias" .
+   [1 0 0 0 0 0 0 0])
+  ("ac-complete-gtags" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("portSTACK_GROWTH" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("i" .
+   [30])
+  ("pxNewTCB" .
+   [0 0 0 0 1 0 0 0])
+  ("pxStack" .
+   [1 0 0 0 0 0 0])
+  ("UART_GetCompParam" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("port_id" .
+   [11 0 18 8 12 2 1])
+  ("SET" .
+   [3 0 0])
+  ("fifo" .
+   [0 0 0 1])
+  ("fifo_stat" .
+   [1 0 0 1 0 0 0 0 0])
+  ("UART_LINESTATUS_TEMT" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("break" .
+   [11 0 0 2 0])
+  ("UART_CompParam_Type" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("compParam" .
+   [2 0 0 0 1 0 0 0 0])
+  ("THRE" .
+   [0 0 1 0])
+  ("SIR_MODE" .
+   [0 0 0 1 0 0 0 0])
+  ("SIR_LP_MODE" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("ADDITIONAL_FEAT" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("FIFO_ACCESS" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("BF" .
+   [1 0])
+  ("CPR" .
+   [1 0 0])
+  ("UART_ID_Type" .
+   [1 0 0 0 0 0 1 1 0 0 0 0])
+  ("uart_port" .
+   [1 0 0 0 0 0 0 0 0])
+  ("mdev_uart" .
+   [1 0 0 0 0 0 0 0 0])
+  ("/tmp/config" .
+   [1 0 0 0 0 1 0 0 1 0 1])
+  ("echo" .
+   [6 0 0 0])
+  ("SSP_IntMask" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("UNMASK" .
+   [1 0 0 0 0 0])
+  ("NVIC_DisableIRQ" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("size_t" .
+   [0 0 0 1 0 0])
+  ("set_buf_rx_size" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("size" .
+   [4 0 2 2])
+  ("set_buf_tx_size" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("256" .
+   [21 0 0])
+  ("tx_buf_init" .
+   [1 0 0 1 0 0 1 0 0 0 0])
+  ("rx_buf_init" .
+   [1 0 0 1 0 0 0 0 1 0 0])
+  ("SSP_INT_TFURI" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 0])
+  ("ifndef" .
+   [0 0 0 1 0 0])
+  ("READER" .
+   [0 0 0 1 0 0])
+  ("read_data" .
+   [1 0 0 4 3 0 0 0 0])
+  ("mode" .
+   [9 0 0 0])
+  ("SSP_MASTER" .
+   [2 0 0 0 3 0 2 0 0 0])
+  ("SSP_GetStatus" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("ssp_data_p" .
+   [2 0 0 0 0 1 4 0 2 1])
+  ("mdev_dtp_" .
+   [0 0 0 0 2 0 0 0 0])
+  ("ifdef" .
+   [8 0 1 0 0])
+  ("DTP_ON_UART" .
+   [0 0 1 6 1 1 0 0 0 0 0])
+  ("elseif" .
+   [1 0 0 0 0 0])
+  ("DTP_ON_SPI" .
+   [4 0 0 6 0 0 0 0 0 0])
+  ("elif" .
+   [5 0 1 0])
+  ("buf" .
+   [31 0 5])
+  ("buf_t" .
+   [5 0 10 7 0])
+  ("0xfc" .
+   [0 0 2 0])
+  ("dtp_rx_msg" .
+   [0 0 0 2 0 0 0 1 1 0])
+  ("0xfe" .
+   [8 0 1 0])
+  ("recv_full_packet" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UINT32" .
+   [1 0 0 0 0 0])
+  ("port_num" .
+   [2 0 0 0 0 0 0 0])
+  ("sspdrv_read_irq_handler" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("SSP_MAX_PORT" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("sspdrv" .
+   [1 0 0 0 0 0])
+  ("irq_handler" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("DEFINE_SSP_CB" .
+   [0 0 0 3 0 0 0 0 1 0 0 0 0])
+  ("read" .
+   [5 0 0 0])
+  ("ssp_read_irq_handler" .
+   [0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("GET_SSP_CB" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("SSP_INT_BASE" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("os_enter_critical_section" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dtp_drv_recv_start" .
+   [0 0 0 0 0 0 0 0 2 0 1 0 0 0 0 0 0 0])
+  ("DTP_DEMO_ON_UART" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("data_t" .
+   [16 0 0 0 2 1])
+  ("sspdev_data_t" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("uint8" .
+   [2 0 0 0 1])
+  ("0xFF" .
+   [7 0 0 0])
+  ("0x00" .
+   [22 0 1 2])
+  ("uint8_t" .
+   [5 0 3 22 13 3 1])
+  ("0" .
+   [21])
+  ("slave" .
+   [5 0 1 1 0])
+  ("data_len" .
+   [1 0 1 0 3 0 0 0])
+  ("dtp_demo_rx_drv_init" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("CONFIG_DTP_ON_SPI" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UART" .
+   [4 0 0 0])
+  ("SPI" .
+   [1 0 0])
+  ("dtp_uart_drv_read" .
+   [0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0])
+  ("dtp_uart_drv_write" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dtp_with_uart_mdev" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("dtp_drv_read_cb" .
+   [2 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("dtp_drv_write" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dtp_drv_write_cb" .
+   [1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("a" .
+   [6])
+  ("mcast" .
+   [0 0 0 0 1])
+  ("mcast_addr" .
+   [1 0 1 0 1 0 0 0 0 1])
+  ("maddr_cnt" .
+   [0 0 0 1 0 0 0 0 0])
+  ("t" .
+   [15])
+  ("mcastf_mutex" .
+   [0 0 0 2 1 3 0 0 0 0 0 0])
+  ("command_resp_lock" .
+   [1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("HostCmd_CMD_MAC_MULTICAST_ADR" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("uint16_t" .
+   [1 0 0 1 1 0 6 2])
+  ("dummy" .
+   [1 0 0 0 0])
+  ("12" .
+   [1 0])
+  ("m" .
+   [11])
+  ("NumOfMCastAdr" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("MACList" .
+   [0 0 0 1 0 0 0])
+  ("wifi_d" .
+   [0 0 0 0 1 0])
+  ("uint64_t" .
+   [3 0 0 1 0 0 0 1])
+  ("mac_addr" .
+   [1 0 0 5 0 0 0 0])
+  ("get_mac_from_ipv6" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("get_mac_from_ipv4" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("wifi_add_mcast_filter" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("wifi_remove_mcast_filter" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("extern" .
+   [7 0 1 1 0 0])
+  ("get_ipv4_multicast_mac" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ntohl" .
+   [0 0 1 0 0])
+  ("mcast_mac" .
+   [1 0 1 1 0 0 0 0 0])
+  ("FTFS_PART_NAME" .
+   [0 0 1 1 3 1 0 0 0 0 0 0 0 0])
+  ("WMAPPS_PATH=$" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("GITDIR" .
+   [0 0 0 1 0 0])
+  ("/artifacts" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("/tmp/tmp_wmsdk_ng_" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("/tmp/testop_wmsdk_ng_" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("/tmp/message_wmsdk_ng_" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0])
+  ("num_interface" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("rx_msg" .
+   [1 0 3 0 0 0])
+  ("intrfc_handle" .
+   [0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("INADDR_ANY" .
+   [0 0 1 0 0 0 0 0 0 0])
+  ("setsockopt" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("sock" .
+   [9 0 0 0])
+  ("IP_MULTICAST_TTL" .
+   [0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ttl" .
+   [3 0 0])
+  ("net_get_uap_handle" .
+   [1 0 0 2 1 0 0 1 0 1 0 0 0 0 0 0 0 0])
+  ("one" .
+   [1 0 0])
+  ("IPPROTO_IP" .
+   [1 0 1 0 0 0 0 0 0 0])
+  ("start" .
+   [3 0 0 0 0])
+  ("mdns_service" .
+   [1 0 0 0 0 2 1 1 0 0 0 0])
+  ("service" .
+   [2 0 0 0 0 0 0])
+  ("mdns_config" .
+   [1 0 0 0 0 0 0 0 1 0 0])
+  ("config" .
+   [10 0 3 49 3 0])
+  ("intf" .
+   [1 0 0 0])
+  ("num_config" .
+   [0 0 1 18 2 0 0 0 0 0])
+  ("wm_demo_service_list" .
+   [2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("wm_demo_service_list_uap" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("wm_demo" .
+   [1 0 0 2 1 0 0])
+  ("wm_demo_service_uap" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("wm_sys_service_uap" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1])
+  ("services" .
+   [20 0 1 3 3 2 0 0])
+  ("inface_serv" .
+   [0 0 0 4 0 0 0 0 0 0 0])
+  ("num_config_g" .
+   [11 0 0 0 0 0 0 0 0 0 0 2])
+  ("config_id" .
+   [9 0 0 2 0 1 1 4 1])
+  ("e" .
+   [6])
+  ("net_get_sock_error" .
+   [0 0 0 1 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("53" .
+   [1 0])
+  ("5353" .
+   [2 0 0 0])
+  ("add" .
+   [1 0 0])
+  ("MDNS_MAX_CONFIG" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("header" .
+   [0 0 0 0 1 0])
+  ("up" .
+   [1 0])
+  ("WM_E_MDNS_INUSE" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("WM_E_MDNS_INVAL" .
+   [1 0 0 1 3 2 0 0 0 0 0 0 0 0 0])
+  ("MDNS_MAX_SERVICE_CONFIG" .
+   [0 0 0 0 0 1 4 3 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("continue" .
+   [1 0 0 1 1 1 0 0])
+  ("stop_wait" .
+   [2 0 0 1 5 2 1 0 0])
+  ("get_msec_time" .
+   [0 0 0 7 2 8 1 0 0 0 0 0 0])
+  ("min_idx" .
+   [3 0 1 19 2 0 0])
+  ("min_timeout" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("timeval" .
+   [0 0 0 2 2 1 0])
+  ("pr_wait_time" .
+   [1 0 0 1 0 0 0 0 0 0 0 0])
+  ("find" .
+   [1 0 0 0])
+  ("form" .
+   [1 0 0 0])
+  ("MDNS_DBG" .
+   [0 0 1 0 0 0 0 0])
+  ("v" .
+   [4])
+  ("set" .
+   [1 0 0])
+  ("secs" .
+   [1 0 0 0])
+  ("tv_sec" .
+   [0 0 1 1 0 0])
+  ("set_time_zero" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0])
+  ("EVENT_TIMEOUT" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("network_services" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("DOWN" .
+   [2 0 0 0])
+  ("SET_TIMEOUT" .
+   [0 0 3 1 1 0 0 0 0 0 0])
+  ("MDNS_PROTO_TCP" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("wm_demo_mdns_announce" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0])
+  ("WLAN_MODE_INFRASTRUCTURE" .
+   [1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("mdns_add_service_iface" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("get_interface_idx" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("mdns_remove_service_iface" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("navigator" .
+   [1 0 0 0 1 0 0 0 0])
+  ("gca" .
+   [9 0 0])
+  ("aosmith_gca_uap_service" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("aosmith" .
+   [0 0 2 0 0 0 0])
+  ("aosmith_gca" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("gca_demo_hostname" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("gca_demo_ssid" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("handle" .
+   [2 0 0 1 0 0])
+  ("in_ipaddr" .
+   [0 0 0 1 1 0 0 0 0])
+  ("N" .
+   [1])
+  ("req_iface" .
+   [0 0 0 2 0 0 0 0 0])
+  ("unsigned" .
+   [1 0 0 0 0 0 0 0])
+  ("long" .
+   [1 0 0 0])
+  ("get_wsgi_req_iface" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("req" .
+   [7 0 0])
+  ("interfaces" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("jptr" .
+   [1 0 0 0])
+  ("J_NAME_ERROR" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("SET_TXT_REC" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("wm_time_keyval" .
+   [0 0 0 0 4 0 0 0 0 0 0 0 0 0])
+  ("wm_demo_service" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("wm_time_service" .
+   [0 0 0 0 2 0 0 0 0 1 0 0 0 0 0])
+  ("wm_time__keyval" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("wm_time" .
+   [3 0 0 0 0 0 0])
+  ("footprint" .
+   [3 0 0 1 1 0 0 0 0])
+  ("footprint_get_index" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("httpd_init" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("httpd" .
+   [1 0 0 0 0])
+  ("index" .
+   [0 0 1 1 0])
+  ("req_p" .
+   [1 0 0 0 0])
+  ("filename" .
+   [0 0 0 0 1 0 0 0])
+  ("url_prefix" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("json" .
+   [0 0 0 1])
+  ("bytes" .
+   [1 0 0 0 0])
+  ("written" .
+   [2 0 0 0 0 0 0])
+  ("boot_reset_cause" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("configured" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("configure_enable_rtc" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("low_pwr_duration" .
+   [1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("bool" .
+   [3 0 0 0])
+  ("PWD" .
+   [2 0 0])
+  ("UART_9BIT" .
+   [0 0 1 0 0 0 0 0 0])
+  ("uart_drv_close" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("SET_LEN" .
+   [0 0 0 1 1 0 0])
+  ("local_unescaped_cmd" .
+   [4 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cmd_ptr" .
+   [1 0 2 9 1 1 0])
+  ("SET_CMD" .
+   [1 0 0 0 0 0 0])
+  ("params_len" .
+   [0 0 0 0 0 0 0 0 2 0])
+  ("SET_QSTR" .
+   [0 0 1 0 0 0 0 0])
+  ("GET_CMD" .
+   [0 0 0 9 0 0 0])
+  ("GET_LEN" .
+   [0 0 0 1 0 2 0])
+  ("GET_QSTR" .
+   [0 0 0 0 0 1 1 0])
+  ("tmp" .
+   [15 0 2])
+  ("tmp_t" .
+   [0 0 0 1 0])
+  ("_DTP_DEMO_UTILS_" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("DTP_DEMO_FRAME_DATA_MAX" .
+   [2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cmd_params" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("response_buffer" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("buflen" .
+   [0 0 0 2 0 0])
+  ("r_buff" .
+   [0 0 1 0 1 0])
+  ("memset" .
+   [0 0 0 1 0 0])
+  ("esc" .
+   [3 0 0])
+  ("dtp_drv_print_msg_t" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("0xfd" .
+   [2 0 2 0])
+  ("nbytes" .
+   [1 0 1 1 0 0])
+  ("0x20" .
+   [2 0 0 0])
+  ("buf_i" .
+   [0 0 3 0 0])
+  ("0x" .
+   [2 0])
+  ("SPI_ESC" .
+   [0 0 0 1 1 0 0])
+  ("provisioned" .
+   [1 0 2 6 0 0 0 0 0 0 0])
+  ("Started" .
+   [1 0 0 0 0 0 0])
+  ("WM_E_NOENT" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("WM_E_CRC" .
+   [0 0 0 0 0 0 1 0])
+  ("WM_E_NODEV" .
+   [0 0 0 0 0 0 0 0 1 0])
+  ("modules" .
+   [0 0 0 0 0 0 1])
+  ("flashprog" .
+   [0 0 0 0 0 7 1 0 0])
+  ("MC200" .
+   [0 0 4 0 0])
+  ("MC200_FLASH_END" .
+   [0 0 3 0 0 0 1 0 2 0 0 0 0 0 0])
+  ("MC2K_FLASH_SECTOR_SIZE" .
+   [0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("flash_length" .
+   [0 0 0 3 0 0 0 0 0 0 0 0])
+  ("act" .
+   [2 0 0])
+  ("flash" .
+   [1 0 1 0 0])
+  ("fd" .
+   [1 0])
+  ("device" .
+   [1 0 0 0 0 0])
+  ("flash_addr" .
+   [1 0 1 2 0 0 0 0 0 0])
+  ("FC_COMP_FW" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("hexdump" .
+   [0 0 0 1 0 0 0])
+  ("wlanfw" .
+   [0 0 0 0 0 1])
+  ("sd878x_e" .
+   [0 0 1 0 0 0 0 0])
+  ("16" .
+   [5 0])
+  ("dtp_ssid" .
+   [0 0 0 1 1 0 0 0])
+  ("UAP_SECURITY_TYPE" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UAP_SECURITY_PASSPHRASE" .
+   [0 0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("app_uap_start" .
+   [0 0 0 2 3 0 0 0 0 0 0 0 0])
+  ("dtp_demo_mdns" .
+   [0 0 0 1 0 0 0 0 0 1 0 0 0])
+  ("server" .
+   [1 0 0 0 0 0])
+  ("inited" .
+   [0 0 0 1 0 0])
+  ("ftfs_t" .
+   [0 0 0 0 1 0])
+  ("115200" .
+   [5 0 2 0 0 0])
+  ("get_mode" .
+   [1 0 0 4 2 0 0 0])
+  ("show_prov_page" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("select_sysinfo" .
+   [0 0 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("show" .
+   [26 0 0 0])
+  ("is_from_reset_to_prov" .
+   [0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("is_provisioned" .
+   [0 0 7 2 2 5 0 1 0 0 0 0 0 0])
+  ("app_uap_stop" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("appName" .
+   [0 0 0 0 1 0 0])
+  ("val" .
+   [11 0 0])
+  ("is_connecting_resp" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("is_connecting_error" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("conn_state" .
+   [1 0 0 0 0 0 1 0 0 0])
+  ("IEEEtypes_SSID_SIZE" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("board_button_2" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("select_advanced" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("from_page" .
+   [0 0 1 0 5 1 1 0 0])
+  ("select_index_page" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("settings" .
+   [1 0 0 0 0 0 0 0])
+  ("settings_btn_clicked" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("J_NAME_SSID" .
+   [0 0 1 0 0 0 0 0 0 0 0])
+  ("json_set_val_str" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("J_NAME_SDK_VER" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("get_sys_done" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("3000" .
+   [1 0 0 0])
+  ("get_sys_error" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("absolute" .
+   [0 0 1 0 0 0 0 0])
+  ("left" .
+   [0 0 1 0])
+  ("50%" .
+   [1 0 0])
+  ("margin-top" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("auto" .
+   [1 0 0 0])
+  ("margin-right" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("-32px" .
+   [1 0 0 0 0])
+  ("get_sensor_data" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0])
+  ("get_air_sensor_data" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("select_air_sensor" .
+   [0 0 2 2 2 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("is_sensor_on" .
+   [0 0 1 0 2 1 0 0 0 0 0 0])
+  ("select_acc_sensor" .
+   [0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("dust_concentration" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("I2C2_PORT" .
+   [0 0 0 1 0 0 0 0 0])
+  ("GPIO44" .
+   [1 0 0 0 0 0])
+  ("GPIO45" .
+   [1 0 0 0 0 0])
+  ("select_motion_sensor" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("myvalues" .
+   [0 0 2 0 0 0 0 0])
+  ("length" .
+   [1 0 0 2 1 0])
+  ("windows_width" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("window" .
+   [0 0 0 1 0 0])
+  ("width" .
+   [0 0 1 1 0])
+  ("graph_width" .
+   [0 0 1 1 0 0 0 0 0 0 0])
+  ("then" .
+   [1 0 0 0])
+  ("fl.old" .
+   [2 0 0 0 0 0])
+  ("motion" .
+   [2 0 0 0 1 0])
+  ("stop_scan_flag" .
+   [0 0 2 1 0 0 0 0 0 0 0 0 0 0])
+  ("Array" .
+   [2 0 0 0 1])
+  ("acc_counter" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("timecount" .
+   [2 0 0 1 2 2 0 0 0])
+  ("motion_timecount" .
+   [0 0 1 2 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("motion_count" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("motion_counter" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("valX" .
+   [1 0 1 2])
+  ("valY" .
+   [0 0 0 3])
+  ("valZ" .
+   [1 0 0 2])
+  ("draw" .
+   [1 0 0 0])
+  ("value" .
+   [1 0 0 0 0])
+  ("bind" .
+   [1 0 0 0])
+  ("prov_btn" .
+   [0 0 1 0 1 0 0 0])
+  ("prov_btn_clicked" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("back_cb" .
+   [0 0 1 0 2 0 0])
+  ("back_to_main" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("CLK_RC32M" .
+   [1 0 0 0 0 0 0 0 0])
+  ("CLK_CAUClkSrc" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("mod_js_name" .
+   [0 0 1 1 0 1 0 0 0 0 0])
+  ("console" .
+   [0 0 1 7 0 0 0])
+  ("log" .
+   [6 0 2])
+  ("HTTPD_MAX_URI_LENGTH" .
+   [0 0 0 0 0 0 0 2 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("ptr" .
+   [2 0 3])
+  ("flg" .
+   [1 0 1])
+  ("ISO_nl" .
+   [0 0 1 0 0 0])
+  ("ptr_t" .
+   [2 0 1 0 0])
+  ("ChangePage" .
+   [0 0 3 4 2 1 0 0 0 0])
+  ("prov_start" .
+   [0 0 2 0 0 0 1 0 0 0])
+  ("mod_name" .
+   [0 0 1 0 0 0 0 0])
+  ("mod_cb_name" .
+   [0 0 1 0 0 0 0 0 0 0 0])
+  ("upgrade" .
+   [1 0 3 0 0 0 0])
+  ("select_fw_upgrade" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("start_flg" .
+   [0 0 2 0 0 0 0 0 0])
+  ("b" .
+   [2])
+  ("upgrade_start" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("sysinfo" .
+   [1 0 0 0 0 0 0])
+  ("select_cloud" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  ("select_change_nw" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("simple_provisioning" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("get_uapinfo_done" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("prov_is_provisioning_done" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("is" .
+   [2 0])
+  ("sys_info_init" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("_sysinfo_cb" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("refresh" .
+   [0 0 0 1 0 0 0])
+  ("refresh_cloud" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("app" .
+   [2 0 0])
+  ("res" .
+   [1 0 0])
+  ("body" .
+   [2 0 0 0])
+  ("is_user_agent_ie" .
+   [0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("128" .
+   [1 0 0])
+  ("os_thread_relinquish" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("1" .
+   [6])
+  ("2" .
+   [4])
+  ("4096" .
+   [1 0 0 0])
+  ("1024" .
+   [1 0 0 2])
+  ("CLK_SYSTEM" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("C_IN" .
+   [0 0 2 0])
+  ("0x0" .
+   [4 0 0])
+  ("RS_ERROR" .
+   [0 0 1 0 0 0 0 0])
+  ("0x8" .
+   [1 0 0])
+  ("txlen" .
+   [1 0 0 0 0])
+  ("DMA_ENABLE" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("BUFSIZE" .
+   [2 0 6 11 0 0 0])
+  ("wmstdio" .
+   [0 0 1 1 0 0 0])
+  ("UART1_ID" .
+   [0 0 1 0 0 0 0 0])
+  ("srcDmaAddr" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("DMA_ITEM_1" .
+   [4 0 0 0 0 0 0 0 0 0])
+  ("dma_status" .
+   [0 0 1 0 0 1 0 0 0 0])
+  ("UART_DMA_ENABLE" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("UART_LOG" .
+   [0 0 0 0 1 0 2 0])
+  ("srcAddrInc" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("dmaChannelStruct" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("DMA_ADDR_NOCHANGE" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("DMA_ADDR_INC" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("255" .
+   [2 0 0])
+  ("PN532_COMMAND_INSELECT" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("0x02" .
+   [7 0 0 0])
+  ("0x03" .
+   [5 0 0 0])
+  ("0x05" .
+   [2 0 0 0])
+  ("0x06" .
+   [1 0 0 0])
+  ("0x41" .
+   [1 0 0 0])
+  ("PN532" .
+   [1 0 2 0 0])
+  ("PN532_COMMAND_INATR" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("PN532_COMMAND_INRELEASE" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("PN532_COMMAND_INDATAEXCHANGE_RESP" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("block" .
+   [7 0 0 0 0])
+  ("tg" .
+   [5 0])
+  ("0x55" .
+   [3 0 0 0])
+  ("RESP_OK" .
+   [0 0 2 4 0 0 0])
+  ("PN532_COMMAND_INSELECT_RESP" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("RES_START" .
+   [0 0 2 2 0 0 0 0 0])
+  ("block_id" .
+   [0 0 0 2 1 1 0 0])
+  ("0x30" .
+   [1 0 0 0])
+  ("BLOCK_READ" .
+   [0 0 0 3 0 0 0 0 0 0])
+  ("10" .
+   [1 0])
+  ("abtCommand_select" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0])
+  ("pn532" .
+   [0 0 3 0 0])
+  ("uuid" .
+   [5 0 0 0])
+  ("pn532_authenticate_block" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("pn532_read_16byte_block" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("KEY_B" .
+   [0 0 1 0 0])
+  ("card" .
+   [4 0 0 0])
+  ("MAX_BLOCK" .
+   [0 0 2 2 0 0 0 0 0])
+  ("UUID_SIZE" .
+   [0 0 2 0 0 0 0 0 0])
+  ("pn532_get_passive_card" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("pn532_select_card" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("pn532_auth_and_read_block" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("READ_BLOCK_LEN" .
+   [1 0 1 2 1 0 0 0 0 0 0 0 0 0])
+  ("cfg_net" .
+   [4 0 1 0 1 0 0])
+  ("psk_len" .
+   [1 0 0 0 0 0 0])
+  ("const" .
+   [1 0 0 0 0])
+  ("start_network" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("UART_DMA_MODE" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("dma_mode" .
+   [2 0 0 0 0 0 0 0])
+  ("baud" .
+   [1 0 0 0])
+  ("0x46" .
+   [0 0 0 1])
+  ("0x66" .
+   [1 0 0 0])
+  ("0x6D" .
+   [1 0 0 1])
+  ("0x10" .
+   [1 0 0 0])
+  ("0x96" .
+   [1 0 0 0])
+  ("0x08" .
+   [1 0 0 0])
+  ("1152000" .
+   [2 0 0 0 0 0 0])
+  ("mdns_add_srv_ptr_txt" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("GPIO_32" .
+   [3 0 0 0 0 0 0])
+  ("survey" .
+   [8 0 0 0 0 0])
+  ("survey_out" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("s2w_commands" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("mwm" .
+   [2 0 0])
+  ("mwm_sw" .
+   [0 0 0 1 1 0])
+  ("mwm_wstrt" .
+   [0 0 0 0 0 0 1 0 0])
+  ("mwm_winfo" .
+   [0 0 0 0 0 1 0 0 0])
+  ("GPIO34" .
+   [1 0 0 0 0 0])
+  ("GPIO35" .
+   [1 0 0 0 0 0])
+  ("dev2" .
+   [1 0 0 0])
+  ("board_led_off" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("serial_mwm" .
+   [0 0 1 1 1 0 0 1 0 0])
+  ("serial_mwm_write_prov_conf" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("MWM_PWR_MGR" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("MWM_MOD_PROV" .
+   [0 0 0 0 0 0 0 0 0 1 0 0])
+  ("MWM_MOD_PWR_MGR" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("MWM_PWR_DEEP_SLEEP" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("serial_mwm_read_prov_conf" .
+   [0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("mwm_send_cmd" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("argc" .
+   [0 0 3 0])
+  ("argv" .
+   [6 0 1 0])
+  ("shutdown_wakeup_time" .
+   [0 0 3 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("listen_interval" .
+   [1 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("PROTO_UART" .
+   [0 0 0 2 0 0 0 0 0 0])
+  ("wakelock_put" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("app_network" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("name" .
+   [3 0 0 0])
+  ("wlan_connect" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("serial_mwm_pm2_enter" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("serial_mwm_pm2_exit" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("ACTION_ENTER_PM2" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("pm_handle" .
+   [0 0 3 1 1 0 0 0 0])
+  ("pm_handle_enter" .
+   [0 0 0 0 0 0 0 0 0 0 2 1 1 0 0])
+  ("pm_handle_exit" .
+   [0 0 0 0 0 0 0 0 0 0 1 1 0 0])
+  ("is_read_blocking" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("GPIO_20" .
+   [1 0 0 0 0 0 0])
+  ("GPIO_27" .
+   [1 0 0 0 0 0 0])
+  ("AF_EVT_UAP_STOPPED" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("uap_down_sem" .
+   [0 0 0 2 0 0 0 0 0 0 0 0])))

@@ -1,0 +1,329 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/mc2k/freertos/" . "src/")
+ ("/.dbus/" . "session-bus/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/" . "wlcmgr/")
+ ("/home/avasani/FreeRtos/mc2k-no-os/TestBench/StdDriver/" . "Inc/")
+ ("/home/avasani/FreeRtos/mc2k-no-os/TestBench/" . "StdDriver/")
+ ("/home/avasani/FreeRtos/mc2k-no-os/" . "TestBench/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/platform/net/" . "treck/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/platform/os/" . "threadx/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/platform/arch/" . "8688/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/platform/" . "os/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/wm_demo/" . "src/")
+ ("/var/www/" . "html/")
+ ("/var/" . "www/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/mc2k/" . "freertos/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/arch/board/" . "mc2k/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/arch/" . "board/")
+ ("/home/avasani/Downloads/wmsdk-1.3.84-dev/sample_apps/wm_demo/" . "src/")
+ ("/home/avasani/Downloads/wmsdk-1.3.84-dev/sample_apps/" . "wm_demo/")
+ ("/home/avasani/Downloads/wmsdk-1.3.84-dev/" . "sample_apps/")
+ ("/home/avasani/Downloads/" . "wmsdk-1.3.84-dev/")
+ ("/home/avasani/FreeRtos/freertos/Demo/CORTEX_MC2K_GCC/driver/" . "inc/")
+ ("/home/avasani/FreeRtos/freertos/Demo/CORTEX_MC2K_GCC/" . "driver/")
+ ("/home/avasani/FreeRtos/freertos/Demo/" . "CORTEX_MC2K_GCC/")
+ ("/home/avasani/FreeRtos/freertos/" . "Demo/")
+ ("/home/avasani/FreeRtos/" . "mc2k-no-os/")
+ ("/home/avasani/WMSDK-GIT/" . "wmsdk/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/" . "mc2k/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/native/" . "uart/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/rfget/" . "testfiles/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/wifidriver/" . "interface_sdio/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/incl/" . "sdk/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/" . "WMSDK/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/" . "mdns/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/" . "core/")
+ ("/" . "home/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/helloworld/" . "src/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/" . "helloworld/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/" . "src/")
+ ("/home/avasani/" . "WMSDK-GIT/")
+ ("/home/" . "avasani/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/arch/os/" . "threadx/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/" . "sdk/")
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/net/" . "treck/")
+ ("/home/avasani/WMSDK-CMC/stmfreertos/ST8786/Demo/Common/ethernet/lwIP/v1_3_2/src/include/" . "lwip/")
+ ("/home/avasani/WMSDK-CMC/stmfreertos/ST8786/Demo/Common/ethernet/lwIP/v1_3_2/src/" . "netif/")
+ ("/home/avasani/WMSDK-CMC/stmfreertos/ST8786/Demo/Common/ethernet/lwIP/v1_3_2/" . "src/")
+ ("/home/avasani/WMSDK-CMC/stmfreertos/ST8786/Demo/Common/ethernet/lwIP/" . "v1_3_2/")
+ ("/home/avasani/WMSDK-CMC/stmfreertos/ST8786/Demo/Common/ethernet/" . "lwIP/")
+ ("/home/avasani/WMSDK-CMC/stmfreertos/ST8786/Demo/Common/" . "ethernet/")
+ ("/home/avasani/WMSDK-CMC/stmfreertos/ST8786/Demo/" . "Common/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/platform/net/lwip/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/wlcmgr/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/app_framework/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/sdk/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/mdns/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/mc2k/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/rfget/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/mc2k/freertos/src/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/AES-CBC-REFER and Spec/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/helloworld/src/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/tools/bin/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/"
+ "/home/avasani/Downloads/"
+ "/home/avasani/Downloads/pycrc-0.7.9/"
+ "/.dbus/session-bus/"
+ "/var/www/html/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/incl/sdk/"
+ "/home/avasani/MCM_GIT/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/dhcpd/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/diagnostics/"
+ "/home/avasani/FreeRtos/mc2k-no-os/TestBench/StdDriver/Inc/"
+ "/home/avasani/FreeRtos/mc2k-no-os/TestBench/StdDriver/Src/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/platform/net/treck/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/wm_demo/src/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/platform/os/threadx/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/wm_demo/html/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/wm_demo/html_secure/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/sysinfo/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/mc2k/uart/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/mc2k/gpio/"
+ "/home/avasani/FreeRtos/freertos/Demo/CORTEX_MC2K_GCC/driver/inc/"
+ "/home/avasani/FreeRtos/freertos/Demo/CORTEX_MC2K_GCC/"
+ "/root/Test/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/native/uart/"
+ "/home/avasani/FreeRtos/freertos/Demo/CORTEX_MC2K_GCC/driver/src/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/WLAN/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/arch/board/mc2k/"
+ "/home/avasani/Downloads/wmsdk-1.3.84-dev/sample_apps/wm_demo/src/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/freertos/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/native/gpio/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/threadx/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/native/gspi/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/rfget/testfiles/"
+ "/root/"
+ "/home/avasani/WMSDK-CMC/stmfreertos/ST8786/FreeRTOS/V7.0.0/Source/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/wifidriver/interface_native/"
+ "/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/ssdp/"
+ "/home/avasani/WMSDK-CMC/stmfreertos/ST8786/Demo/Common/ethernet/lwIP/v1_4_0/src/include/lwip/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "net.c"
+ "wlan.c"
+ "app_discovery.h"
+ "app_ssdp_services.c"
+ "mdns.h"
+ "mdns_respond.c"
+ "mdns.c"
+ "mdns_main.c"
+ "mdev_gpio.c"
+ "write_fs.c"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/platform/net/lwip/" (20338 44414) "netif.dep" "./" "net.dep" "../" "netif.c" "net.o" "libnet.a" "Makefile" "net.c" "netif.o")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/wlcmgr/" (20337 39911) "wlan.c.rej" "wlan_tests.dep" "iw.c" "wlan.dep" "wlan_tests.o" "./" "../" "uaputl.c" "Makefile" "wlan.c.orig" "uaputl.o" "wlan.o" "wlan_tests.c" "libwlcmgr.a" "wlan.c" "iw.dep" "tests/" "iw.o" "uaputl.dep")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/mc2k/" (20337 40165) "mdev_gpt.c" "mdev_gpt.o" "mdev_uart.dep" "mdev_crc.c" "mdev_wdt.c" "mdev_rtc.dep" "mdev_rtc.o" "mdev_iflash.o" "uart/" "mdev_iflash.c" "mdev_i2c.o" "mdev_pinmux.o" "./" "mdev_uart.o" "mdev_rtc.c" "../" "mdev_pinmux.dep" "mdev_gpio.o" "mdev_pinmux.c" "mdev_wdt.dep" "mdev_gpio.c" "mdev_uart.c" "Makefile.drivers.orig" "Makefile" "mdev_i2c.dep" "i2c/" "mdev_gpt.dep" "freertos/" "mdev_crc.dep" "mdev_iflash.dep" "qspi/" "libdrv.a" "mdev_i2c.c" "mdev_crc.o" "mdev_wdt.o" "gpio/" "mdev_gpio.dep")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/wifidriver/interface_sdio/" (20337 39912) "interface_sdio.o" "wifi_pwrmgr.c" "interface_sdio.c" "interface_mem_simple.o" "sd878x.dep" "./" "../" "wifi_pwrmgr.o" "interface_mem_simple.dep" "interface_sdio.dep" "Makefile" "wifi_pwrmgr.dep" "interface_mem_simple.c" "sd878x.c" "sd878x.o" "interface_sdio.c.orig")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/wifidriver/" (20337 39912) "./" "common/" "../" "interface_native/" "Makefile" "libwifidriver.a" "interface_sdio/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/userif/" (20244 8442) "userif_ext.dep" "wifi.o" "wifi.dep" "libuserif.a" "./" "userif_11d.o" "../" "userif_mem_simple.o" "#wifi.c#" "userif_mem_simple.dep" "userif_11d.dep" "userif_ext.o")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/" (20337 40406) "docs/" "uart_new_driver_reg.patch" "AES-CBC-REFER and Spec.zip" "crc" "replace.sh" "sample_apps/" "wm_demo_1.04.axf" "AES-CBC-REFER and Spec/" "crc.c" "helloworld_flash.bin" "RELEASE_NOTES.txt" "qspi.c" "--dry-run" "0001-add-mdns-apis-to-get-and-set-ip-address-and-hostname.patch" "Makefile.vars" "aes_new_driver.patch" "9bit_uart_helloworld.patch" "a.out" "aes_new_driver_h.patch" ".config" "0002-Add-app_discovery_refresh-to-update-ipaddress-and-ho.patch" "uart_new_driver_h.patch" "external/" "incl/" "build/" "Makefile.orig" ".kconfig.d" "libs/" "compile_load.sh" "tools/" "version.txt" "~" "TAGS" "Makefile" "README.FIRST" "alt_compile.sh" "uart_new_driver_c.patch" "uart_new_drop.patch" "aes_reg_new_drop.patch" "src/" "etags" ".config.old" "crc.py" "../" "./")
+
+ ("/home/avasani/" (20338 39902) "aa.sh" ".local/" ".emacs-places" "Ubuntu-10.04.xml~" ".gstreamer-0.10/" ".pulse/" "Fedora13.xml" ".evolution/" "rtos_hard_fault.patch" "wmsdk-2.1.1.tar.gz" "0001-Rebase-CLOCK-to-Saratoga-Driver-code-V0.3-17Feb2012.patch" ".gnome2_private/" ".ido.last" "FreeRtos/" "wm_changes_v1.patch" ".bash_history" "INC/" "mcm_update_img.bin" "MCM_GIT/" "inc.squash.img" "ssdp_with_os_and_net_abstraction.patch" ".bash_profile" ".quicksynergy/" "root@10.31.131.232" ".recentf" ".nautilus/" "GIT/" "WMDEMO/" ".mozilla/" ".pulse-cookie" ".esd_auth" "a.txt" "WMSDK-CMC/" "emacs.d.tar.gz" "Test/" "wmsdk-2.1.1/" "helloworld_flash.bin" "synergy-1.3.7-Linux-x86_64.rpm" ".bashrc" "calypso-8787.jffs2.img" "AES_Ref.zip" "Pictures/" ".dmrc" "BEmarksheet.pdf" "codegraph-0.7.12.gem" ".gnome2/" "12client.cap" "filesystem" "Mail/" "Music/" "WM-SDK-User-Guide.pdf" "SDK-COMPILE.tar.gz" "checkpatch.pl" "SDK-COMPILE/" "network_abstraction.patch" "0001-Fix-mdns-build-warnings.patch" "Songs/" ".subversion/" "Roundleaf/" ".xine/" "a.c" "Marvell-Thermostat-APIv113-100-draft4.pdf" "a.out" "wmsdk-1.3.2/" "CMC_WMSDK/" "Desktop/" ".icedteaplugin/" ".emacs.d/" "auto-complete-1.3.1.tar.bz2" ".printer-groups.xml" "openocd/" ".cache/" "Thermostat/" "wm_demo_1.04_flash.bin" ".config/" ".viminfo" "prov_demo_flash.bin" "mystock.pdf" "arm-2010q1-188-arm-none-eabi-i686-pc-linux-gnu.tar.bz2" "wm_demo_1.04.ftfs" "syenergy.confg" ".hplip/" ".dbus/" "Videos/" "Dad_Mumbai_Return_Tatkal.pdf" ".vnc/" ".netx/" "index.html" "brianjcj-auto-complete-clang-9db79f4.tar.gz" "Documents/" "sd8782_uapsta.bin" "tstat_app_1.04_Ashwin_Test_flash.bin" "sys" ".bash_logout" ".kde/" "BEcertificate.pdf" ".bashrc~" "ARMTOOLCHAIN/" "brianjcj-auto-complete-clang-9db79f4/" "FIRMARE/" "9bit_sid_uart_changes.patch" "Templates/" "workspace/" "multicast_patch.patch" "final_enable.p" ".fonts/" "output.pdf" ".eclipse/" ".thumbnails/" ".gtk-bookmarks" "temp/" "AP-X+SDK+–+Build+Process.ppt" ".imsettings.log" "WM-Board-Setup-Instructions.pdf" "auto-complete-1.3.1/" ".xsession-errors" "#crc.py#" "helloworld.axf" "firmware" "WMSDK-GIT/" ".gconf/" ".ICEauthority" "wmdemo/" "codegraph-0.7.6.gem" "MCM-WP/" ".lesshst" "ECM/" ".gconfd/" ".pki/" "Dad_Mumbai_Return.pdf" ".setroubleshoot" "CodeSourcery/" "minicom.cap" "wm_demo_discover.c" "0001-Resolved-Fedora-and-Ubuntu-dependencies-for-build.patch" "mail.google.com" "Downloads/" "mcm_sdk-0.9.213.tar.gz" "arm-2011.09-69-arm-none-eabi.tar.bz2" ".thunderbird/" ".fontconfig/" ".xsession-errors.old" "u-boot.bin" ".ccache/" ".zshrc" ".virt-manager/" "Fedora11.xml" "wmsdk-1.3.2.tar.gz" "Calypso/" "yasnippet-0.6.0b/" "kernel/" "multicast_enable_final.patch" "mtf.sample.cfg" "AES_Ref/" "12client_1.cap" ".openoffice.org/" ".ssh/" "app_framwork_v1.patch" ".recently-used.xbel" "adhoc_demo_flash.bin" "Wireless Microcontroller Board Setup Instructions.pdf" "0001-1-Added-following-calls-in-Network-Abstraction.patch" "Public/" "fstest.c" "sachin_changes_wmsdk.patch" ".gitconfig" "../" "./")
+
+ ("/home/" (20283 37325) "hitesh/" "avasani/" "lost+found/" "./" "../")
+
+ ("/root/" (20338 42259) "../" ".mozilla/" "prov_demo_flash.bin" "adhoc_demo_flash.bin" ".xauthn8OK28" "c.c" ".cshrc" "Makefile" ".gnome2/" ".vnc/" ".xauthwYiYDK" "STATS_DEMO_MDNS_NORMAL/" "./" "minicom.log" "checkpatch.pl" ".recently-used.xbel" ".tcshrc" ".xauth3fbnup" "stmfreertos_backup.tar.gx" ".bashrc~" ".bashrc" ".gconfd/" "anaconda-ks.cfg" ".wireshark/" "sent" "helloworld.axf" "mc2k_complile.sh" "part.bin" ".dbus/" "Test/" "0002-Add-Notifier-in-CMCSDK.patch" ".bash_history" "reset_bug.patch" ".ssh/" ".xauthkb7P8P" ".emacs.tar.gz" "STATS_DEMO_SSDP/" ".xauthRd26Pb" ".config/" "runtests_flash.bin" "b.txt" ".bash_logout" "kedar/" "a.txt" "arm-2010q1-188-arm-none-eabi-i686-pc-linux-gnu.tar.bz2" ".pki/" ".gitk" ".gconf/" ".thumbnails/" "LWIP/" "git-completion.sh" ".xauthLc6Qmc" "cc" "runtests.axf" "ARMv7-M_ARM.pdf" "w_f.bin" ".emacs.d/" "STATS_UAP_DEMO/" "init.el" "sachin_change_rtos.patch" "enabling_igmp_in_lwip.patch" "tstat_app_1.04_flash.bin" ".Xauthority" "a.c" ".xauthLZ6wlq" ".gnome2_private/" ".viminfo" "Desktop/" ".uml/" ".gitconfig" "chk_temp.temp" "arm-2010q1/" "install.log.syslog" ".xauthgF4j3l" ".xauthIVkrkC" "Mail/" "#checkpatch.pl#" ".elinks/" ".xauthrx2Puw" "stmfreertos_backup.tar.gz" ".gstreamer-0.10/" "emacs.tar.gz" "stats_demo/" ".purple/" ".nautilus/" "tstat_app_1.04_Ashwin_Test_flash.bin" ".recentf" "a" "final.p" ".xauth1XU3Jz" "emacs.d.tar.gz" "tstat_app_1.04.ftfs" "install.log" ".xauthQYcuQp" "helloworld_flash.bin" ".xauthwvcW9m" ".lesshst" ".ido.last" "0001-Sample-Error-Notifier-In-SSDP-Module.patch" "KERNEL/" "a.out" ".xauthC3xIN7" "boot2-stm32.bin" ".xauth6emxZI" ".bash_profile" "#a.txt#" "app_framwork_v1.patch" "music/" ".xauthGjYWmT" "stack_dump.patch" "prov_demo.ftfs" ".emacs-places")
+
+ ("/root/LWIP/" (20200 14835) "../" "./" "lwip/")
+
+ ("/root/LWIP/lwip/" (20337 39905) "../" "contrib/" "Makefile" "./" "Debug/" "CHANGELOG" "NUL" "src/" "UPGRADING" "TAGS" "0001-LWIP-compilation-warning-fix.patch" "doc/" "test/" "COPYING" "README" ".git/" "FILES")
+
+ ("/root/LWIP/lwip/src/" (20200 14847) "../" "./" "api/" ".hgignore" "netif/" "core/" "include/" "FILES")
+
+ ("/root/LWIP/lwip/src/core/" (20338 42285) "memp.c" "../" "timers.c" "tcp_in.c" "./" "udp.c" "tcp_out.c" "ipv4/" "netif.c" "snmp/" "raw.c" "dhcp.c" "def.c" "tcp.c" "stats.c" "dns.c" "pbuf.c" "#netif.c#" ".#netif.c" "mem.c" "sys.c" "ipv6/" "init.c")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/sdk/" (20337 37688) "mdns_simple.h" "mdev_rtc.h" "httpd_pattern.h" "mdev_pinmux.h" "mdev_gpio.h" "app_framework.h" "#wmerrno.h#" "mdev_uart.h" "httpd.h" "compat.h" "wmerrno.h.orig" "fakefs_cli.h" "base/" "crypto-stubs.h" "ttcp.h" "wmsysinfo.h" "wlan.h" "mdev_spi_gpio.h" "healthmon.h" "telnetd.h" "wmassert.h" "pwrmgr.h" "./" "diagnostics.h" "nettest.h" "crypto.h" "cli.h" "ssdp.h" "wmerrno.h.rej" "../" "opensslconf.h" "wmerrno.h" "#wmstdio.h#" "mdev_i2c.h" "mdns.h" "flash.h" "dhcp-server.h" "cloud.h" "aes_locl.h" "e_os2.h" "wmtime.h" "rtc.h" "ftfs.h" "wmstats.h" "crc32.h" "json.h" "rfget.h" "mdev_gpt.h" "mdns_port.h" "psm.h" "aes.h" "cli_utils.h" "mdev_iflash.h" "wps.h" "provisioning.h" "wlan_tests.h" "mdev_i2c_gpio.h" "spi.h" "fs.h" "DNSCommon.h" "wmstdio.h" "test_utils.h" "#mdev_uart.h#" "#ssdp.h#" "ezxml.h" "sys_api.h" "httpc.h" "http-strings.h" "mdev_crc.h" "peripherals/" "mdev_wdt.h" "fakefs.h" "http_parse.h")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/app_framework/" (20337 39167) "app_test_http_handlers.h" "app_main.c.rej" "app_psm.h" "app_sys_http_handlers.c.rej" "libapp_framework.a" "app_reboot.dep" "app_http.h" "app_ctrl.c" "app_network_mgr.h" "app_cloud.dep" "app_ctrl.dep" "#app_network_mgr.c#" "app_ctrl.h" "app_ctrl.c.rej" "./" "app_reboot.c" "app_ctrl.c.orig" "app_discovery.h" "app_network_mgr.c" "../" "app_fs.o" "app_network_mgr.c.rej" "app_network_mgr.dep" "app_mdns_services.dep" "app_cloud.o" "app_network_config.dep" "app_network_config.c" "app_cloud.c" "app_reboot.o" "app_ctrl.o" "app_provisioning.o" "app_network_config_static.c" "app_network_mgr.c.orig" "Makefile.rej" "app_mdns_services.o" "app_reboot.h" "TAGS" "Makefile" "app_cloud.c.orig" "app_mdns_services.c" "app_network_config.h" "app_ssdp_services.c" "#app_cloud.c#" "app_ssdp.h" "app_fs.c" "app_dbg.h" "app_main.c" "app_sys_http_handlers.o" "app_sys_http_handlers.c" "app_fs.dep" "app_test_http_handlers.c" "Makefile.include" "app_provisioning.c" "app_provisioning.dep" "app_network_mgr.o" "app_main.dep" "app_cloud.h" "app_cloud.c.rej" "app_network_config.o" "app_main.o" "app_psm.c" "app_psm.o" "app_fs.h" "app_psm.dep" "app_provisioning.h" "app_sys_http_handlers.dep")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/" (20337 25447) "board/" "WLAN/" "./" "sdk/" "../" "libc/" "platform/" "threadx/" "autoconf.h" "freertos/" "wm_os.h" "treck/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/tools/bin/" (20323 3520) "crc_algorithms.pyc" "generatecfg" "heap_analyse.pl" "crc32.pyc" "flash_check.py" "./" "mtf" "cfg.py" "detailed_footprint_analysis.sh" "../" "Windows/" "Linux/" "crc32.py" "mtfterm.py" "mtfterm.pyc" "mkfakefs" "flash_pack.py" "crc.py")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/helloworld/src/" (20337 25491) "userApp.c" "helloworld_flash.bin" "userApp.c.rej" "./" "userApp.dep" "../" "map.txt" "userApp.c.orig" "helloworld.axf" "Makefile" "helloworld_layout.c" "userApp.o" "helloworld_layout.dep" "helloworld_layout.o")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/mc2k/freertos/src/" (20337 25488) "mc2k_acomp.c" "mc2k_gpio.dep" "mc2k_driver.dep" "mc2k_gpio.o" "mc2k_flash.dep" "mc2k_aes.dep" "main.dep" "mc2k_wdt.dep" "startup_mc2k.c" "mc2k_i2c.dep" "./" "mc2k_dma.dep" "mc2k_qspi0.o" "startup_mc2k.dep" "core_cm3.dep" "mc2k_crc.o" "mc2k_qspi1.c" "mc2k_gpt.c" "mc2k_uart.dep" "../" "mc2k_pmu.c" "mc2k_timer.c" "mc2k_xflash.o" "mc2k_rtc.o" "mc2k_i2c.o" "mc2k_clock.dep" "mc2k_rtc.c" "mc2k_pmu.o" "mc2k_pinmux.o" "mc2k_sdio.c" "mc2k_qspi1.dep" "main.o" "startup_mc2k.o" "mc2k_qspi0.dep" "mc2k_clock.c" "mc2k_ssp.c" "mc2k_pinmux.c" "mc2k_adc.c" "mc2k_sdio.o" "mc2k_wdt.o" "mc2k_qspi.c" "Makefile" "mc2k_xflash.c" "mc2k_xflash.dep" "mc2k_flash.o" "mc2k_dma.c" "mc2k_uart.o" "mc2k_aes.c" "mc2k_driver.c" "mc2k_aes.o" "mc2k_driver.o" "mc2k_gpio.c" "mc2k_crc.c" "mc2k_dac.c" "mc2k_rtc.dep" "mc2k_pinmux.dep" "mc2k_uart.c.orig" "mc2k_dma.o" "mc2k_gpt.dep" "mc2k_sdio.dep" "mc2k_wdt.c" "mc2k_flash.c" "main.c" "mc2k_clock.o" "mc2k_gpt.o" "mc2k_pmu.dep" "core_cm3.o" "mc2k_uart.c" "core_cm3.c" "mc2k_qspi0.c" "mc2k_crc.dep" "mc2k_i2c.c" "mc2k_qspi1.o")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/rfget/" (20337 25478) "verify_firmware.dep" "#rfget_cli.c#" "write_firmware.o" "rfget.c" "librfget.a" "./" "write_fs.dep" "../" "verify_firmware.o" "write_fs.o" "Makefile" "testfiles/" "rfget.dep" "rfget.o" "verify_firmware.c" "firmware.h" "tests/" "write_fs.c" "write_firmware.dep" "write_firmware.c")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/mdns/" (20337 25480) "mdns_query.o" "version.h" "dname.o" "mdns_query.c" "debug.o" "mdns.dep" "mdns_main.c.rej" "dname.c" "debug.c" "mdns_main.c.orig" "mdns.c" "mdns_respond.c" "./" "mdns_respond.dep" "../" "mdns_query.dep" "mdns_message.h" "debug.dep" "dname.dep" "mdns_respond.o" "Makefile" "mdns_private.h" "mdns_main.c" "test.c" "mdns.o" "mdns_main.dep" "tests/" "libmdns.a" "queue.h" "mdns_main.o")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/" (20337 24452) "replace.sh" "middleware/" "arch/" "./" "../" "incl/" "libc/" "platform/" "app_framework/" "core/" "TAGS" "Makefile" "drivers/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/" (20320 32221) "ttcp/" "wps/" "nettest/" "replace.sh" "diagnostics/" "psm/" "dhcpd/" "rfget/" "mdns/" "provisioning/" "./" "http-client/" "ssdp/" "fakefs/" "../" "spi/" "sysinfo/" "cloud/" "json/" "ftfs/" "provisioning_v2/" "httpd/" "ezxml/" "telnetd/" "crypto/" "mdns_simple/" "httpc/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/AES-CBC-REFER and Spec/" (20294 9138) "./" "aes_cbc_test.c" "../" "aes_case.h" "AES Spec.doc")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/helloworld/" (20244 8442) "./" "../" "src/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/" (20290 5917) "provisioning_demo/" "replace.sh" "gspi_demo/" "./" "provisioning_demo_v2/" "wm_demo/" "../" "dtp_demo/" "Makefile" "uap_demo/" "helloworld/" "adhoc_demo/" "io_demo/" "ezxml_demo/")
+
+ ("/home/avasani/Downloads/pycrc-0.7.9/" (20281 63181) "crc_symtable.pyc" "pycrc.py" "crc_models.pyc" "ChangeLog" "doc/" "#pycrc.py#" "crc_lexer.py" "crc_algorithms.pyc" "./" "crc_models.py" "../" "crc_symtable.py" "test/" "crc_parser.pyc" "crc_algorithms.py" "crc_opt.py" "#crc_opt.py#" "README" "COPYING" "crc_lexer.pyc" "crc_parser.py" "crc_opt.pyc")
+
+ ("/.dbus/session-bus/" (20004 16203) "../" "./" "af408a5f97aa26d7d7d266550000000d-9")
+
+ ("/.dbus/" (20004 16203) "../" "./" "session-bus/")
+
+ ("/var/www/html/" (20283 27604) "../" "advanced.shtml" ".#404.html" "prov.js" "./" "temp_red.gif" "logo.gif" "style.css" "home.shtml.orig" "404.html" "test.js" "prov.shtml" "footer.shtml" "test.html" "config_cloud.shtml" "strong.gif" "common.js" "temp_grn.gif" "medium.gif" "weak.gif" "tstat_app_1.04_flash.bin" "home.shtml" "arrow.gif" "setting.png" "update-fwfs.shtml" "index.html" "adv_network.shtml")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/" (20253 21031) "native/" "./" "../" "mc2k/" "8688/" "peripherals/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/wmstdio/" (20271 55864) "wmassert.o" "console.dep" "./" "../" "wmassert.dep" "wmstdio.o" "console.c" "wmassert.c" "Makefile" "wmstdio.dep" "libwmstdio.a" "console.o" "wmstdio.c" "tests/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/incl/sdk/" (20266 4551) "spi_cli.h" "mdns_simple.h" "httpd_pattern.h" "mdev_pinmux.h" "mdev_gpio.h" "app_framework.h" "#wmerrno.h#" "mdev_uart.h" "httpd.h" "compat.h" "wmerrno.h.orig" "fakefs_cli.h" "base/" "watchdog.h" "crypto-stubs.h" "ttcp.h" "wmsysinfo.h" "wlan.h" "mdev_spi_gpio.h" "healthmon.h" "telnetd.h" "wmassert.h" "mdev_gspi.h" "pwrmgr.h" "./" "diagnostics.h" "nettest.h" "crypto.h" "cli.h" "ssdp.h" "wmerrno.h.rej" "../" "opensslconf.h" "wmerrno.h" "#wmstdio.h#" "mdev_i2c.h" "mdns.h" "flash.h" "dhcp-server.h" "cloud.h" "aes_locl.h" "e_os2.h" "wmtime.h" "rtc.h" "ftfs.h" "wmstats.h" "crc32.h" "json.h" "rfget.h" "mdns_port.h" "psm.h" "aes.h" "cli_utils.h" "wps.h" "provisioning.h" "wlan_tests.h" "mdev_i2c_gpio.h" "spi.h" "fs.h" "DNSCommon.h" "wmstdio.h" "test_utils.h" "#ssdp.h#" "ezxml.h" "sys_api.h" "httpc.h" "http-strings.h" "peripherals/" "fakefs.h" "http_parse.h")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/incl/" (20266 20342) "board/" "WLAN/" "./" "sdk/" "../" "libc/" "platform/" "threadx/" "autoconf.h" "freertos/" "wm_os.h" "treck/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/" (20266 9556) "tags" "ani" "uart_drv.c" "WMSDK_Internal/" "wmsdk-dev-1.1.1.tar.gz" "./" "../" "Tools/" ".git/" "TAGS" "WMSDK/" "PATCH/" "boot2-stm32/" "uart_rs485_drv.c")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/wm_demo/src/" (20266 20660) "wm_demo_http_handlers.c" "wm_demo_cloud.o" "wm_demo_http.h" "wm_demo_3.02_flash.bin" "wm_demo_http_handlers.dep" "#wm_demo_secure_provision.c#" "wm_demo_event_simple.c" "wm_demo_3.02.axf" "wm_demo_app.o" "wm_demo_app.dep" "./" "wm_demo_drv.c" "wm_demo_app.h" "wm_demo_cloud.c" "../" "wm_demo_hard_pbc.c" "wm_demo_secure_provision.c" "wm_demo_event_led.c" "wm_demo_hard_pbc.o" "wm_demo_wps_pbc.h" "wm_demo_event_advanced.dep" "map.txt" "README.doxy" "wm_demo_hard_pbc.dep" "Makefile" "wm_demo_cloud.h" "wm_demo_img_pbc.c" "wm_demo_drv.h" "wm_demo_net_stat_http_handlers.c" "wm_demo_app.c" "wm_demo_drv.o" "doxy.conf" "wm_demo_drv.dep" "wm_demo_3.02.ftfs" "wm_demo_cloud.dep" "wm_demo_secure_provision.h" "wm_demo_soft_pbc.c" "wm_demo_event_advanced.o" "cmc_demo_drv.c" "wm_demo_event_advanced.c" "wm_demo_http_handlers.o")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/wm_demo/" (20266 19733) "www/" "./" "html/" "../" "cloud/" "extras/" "TAGS" "html_secure/" "src/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/dhcpd/" (20245 32247) "dhcp-server-main.o" "dhcp-server-main.dep" "Makefile.linux" "./" "dhcp-bootp.h" "../" "dhcp-server.o" "dhcp-server.c" "Makefile" "dhcp-server.dep" "dns.h" "tests/" "dhcp-priv.h" "dhcp-server-main.c" "libdhcpd.a")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/diagnostics/" (20245 31768) "diagnostics.c" "./" "libdiagnostics.a" "../" "diagnostics.dep" ".#diagnostics.c" "#diagnostics.c#" "Makefile" "diagnostics.o")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/" (20244 8442) "wifidriver/" "healthmon/" "wmstdio/" "diagnostics/" "pwrmgr/" "spi_flash/" "cli/" "userif/" "./" "../" "wlcmgr/" "wmtime/" "swrtc/" "mdev/")
+
+ ("/home/avasani/FreeRtos/mc2k-no-os/TestBench/StdDriver/Inc/" (20212 15854) "mc2k_sdio.h" "mc2k_qspi.h" "saratoga_dma.h" "mlan_ieee.h" "saratoga_sdio.h" "./" "mc2k_flash.h" "mc2k_driver.h" "mc2k_rtc.h" "../" "mc2k_timer.h" "mc2k_wdt.h" "mc2k_qspi0.h" "mc2k_dma.h" "saratoga_uart.h" "mc2k_aes.h" "saratoga_pinmux.h" "mc2k_i2c.h" "mc2k_gpio.h" "mlan_fw.h" "saratoga_driver.h" "saratoga_gpio.h" "mc2k_uart.h" "saratoga_timer.h" "mc2k_pinmux.h" "sdio.h" "mc2k_crc.h")
+
+ ("/home/avasani/FreeRtos/mc2k-no-os/TestBench/StdDriver/Src/" (20212 15945) "saratoga_timer.c" "./" "saratoga_driver.c" "saratoga_sdio.c" "saratoga_uart.c" "../" "mc2k_timer.c" "saratoga_gpio.c" "mc2k_rtc.c" "mc2k_sdio.c" "mc2k_pinmux.c" "mc2k_qspi.c" "saratoga_pinmux.c" "mc2k_dma.c" "mc2k_aes.c" "saratoga_dma.c" "mc2k_driver.c" "mc2k_gpio.c" "mc2k_crc.c" "mc2k_wdt.c" "mc2k_flash.c" "sdio.c" "mc2k_uart.c" "mc2k_qspi0.c" "mc2k_i2c.c")
+
+ ("/home/avasani/FreeRtos/mc2k-no-os/TestBench/StdDriver/" (20212 15854) "./" "../" "Src/" "Inc/")
+
+ ("/home/avasani/FreeRtos/mc2k-no-os/TestBench/" (20212 15854) "./" "../" "StdDriver/" "Core/" "TestCode/")
+
+ ("/home/avasani/FreeRtos/mc2k-no-os/" (20212 15854) ".gitignore" "./" "../" "BootRom/" ".git/" "Validation/" "TestBench/")
+
+ ("/home/avasani/FreeRtos/" (20212 15835) "./" "../" "mc2k-no-os/" "freertos/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/mc2k/freertos/" (20244 8442) "inc/" "./" "driver/" "../" "init/" "core/" "src/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/platform/net/treck/" (20234 54424) "treck_v4225_r3/" "./" "../" "wm_net.h")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/platform/net/" (20234 54424) "./" "../" "treck/" "lwip/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/platform/net/lwip/" (20237 20360) "./" "../" "wm_net.h")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/platform/os/threadx/" (20234 60359) "./" "os.o" "../" "os.c" "Makefile" "os.dep" "libos.a")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/platform/os/" (20234 54424) "./" "../" "threadx/" "freertos/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/platform/arch/8688/" (20234 60359) "pwrmgr_cli.dep" "flash.o" "flash.dep" "./" "boot_flags.o" "spi_flash_drv.c" "pwrmgr.o" "../" "watchdog.c" "psm_flash.dep" "pwrmgr_cli.c" "psm_flash.o" "spi_flash_drv.o" "Makefile" "libboard.a" "pwrmgr.dep" "boot_flags.dep" "flash.c" "pwrmgr_cli.o" "pwrmgr.c" "psm_flash.c" "spi_flash_drv.dep" "boot_flags.c")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/platform/arch/" (20234 54424) "./" "../" "mc2k/" "losgatos/" "8688/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/platform/" (20234 54424) "arch/" "./" "../" "net/" "os/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/freertos/" (20234 54424) "./" "../" "wm_os.h.orig" "wm_os.h.rej" "#wm_os.h#")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/wm_demo/html/" (20231 5087) "home.shtml" "weak.gif" "style.css" "config_cloud.shtml" "prov_home.shtml" "arrow.gif" "logo.gif" "./" "strong.gif" "medium.gif" "common.js" "../" "index.html" "prov.shtml" "admin.shtml" "prov.js" "404.html" "footer.shtml" "advanced.shtml" "adv_network.shtml")
+
+ ("/sys/" (20217 23573) "block/" "module/" "power/" "kernel/" "hypervisor/" "firmware/" "class/" "bus/" "dev/" "devices/" "fs/" "../" "./")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/wm_demo/html_secure/" (20230 46916) "home.shtml" "weak.gif" "style.css" "update-fwfs.shtml" "config_cloud.shtml" "arrow.gif" "logo.gif" "crypto.js" "./" "strong.gif" "medium.gif" "common.js" "setting.png" "../" "index.html" "prov.shtml" "temp_red.gif" "prov.js" "404.html" "footer.shtml" "advanced.shtml" "adv_network.shtml" "temp_grn.gif")
+
+ ("/var/www/" (20110 49847) "../" "usage/" "./" "manual/" "cgi-bin/" "git/" "icons/" "gitweb-caching/" "error/" "html/")
+
+ ("/var/" (20153 13630) "../" "cvs/" "tmp/" "named/" "account/" "mail/" "./" "local/" "lib/" "yp/" "preserve/" "db/" "spool/" "empty/" "opt/" "lock/" "www/" "games/" "torque/" "cache/" "gdm/" "ftp/" "nis/" "run/" "log/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/arch/net/lwip/" (20229 29533) "netif.dep" "./" "net.dep" "../" "netif.c" "net.o" "libnet.a" "Makefile" "net.c" "netif.o")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/sysinfo/" (20229 29538) "./" "../" "sysinfo.o" "sysinfo.c" "sysinfo.dep" "Makefile" "libsysinfo.a" "tests/" "README")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/mc2k/uart/" (20225 25883) "uart_drv.c" "uart_rs485_drv.o" "#Makefile#" "uart_rs485_drv.dep" "./" "../" "Makefile.orig" "Makefile.rej" "Makefile" "libdrvuart.a" "uart_rs485_drv.c" "uart_drv_test.c")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/mc2k/gpio/" (20225 24718) "gpio.o" "./" "../" "gpio.dep" "Makefile" "gpio.c" "libgpio.a")
+
+ ("/home/avasani/FreeRtos/freertos/Demo/CORTEX_MC2K_GCC/driver/inc/" (20222 60210) "mc2k_sdio.h" "mc2k_clock.h" "mc2k_qspi.h" "mc2k_pmu.h" "./" "mc2k_flash.h" "mc2k_driver.h" "mc2k_rtc.h" "../" "mc2k_qspi1.h" "mc2k_gpt.h" "mc2k_timer.h" "mc2k_wdt.h" "mc2k_qspi0.h" "mc2k_dma.h" "mc2k_aes.h" "mc2k_i2c.h" "mc2k_gpio.h" "#mc2k_uart.h#" "mc2k_xflash.h" "mc2k_uart.h" "mc2k_pinmux.h" "mc2k_crc.h")
+
+ ("/home/avasani/FreeRtos/freertos/Demo/CORTEX_MC2K_GCC/" (20222 60210) "#main.c#" "./" "driver/" "../" "FreeRTOSConfig.h" "init/" "tools/" "core/" "TAGS" "Makefile" "makedefs" "standalone.ld" "main.c" "gcc/")
+
+ ("/home/avasani/FreeRtos/freertos/Demo/CORTEX_MC2K_GCC/driver/src/" (20222 60210) "#mc2k_uart.c#" "./" "mc2k_qspi1.c" "mc2k_gpt.c" "../" "mc2k_pmu.c" "mc2k_timer.c" "mc2k_rtc.c" "mc2k_sdio.c" "mc2k_clock.c" "mc2k_pinmux.c" "mc2k_qspi.c" "mc2k_xflash.c" "mc2k_dma.c" "mc2k_aes.c" "mc2k_driver.c" "mc2k_gpio.c" "mc2k_crc.c" "mc2k_wdt.c" "mc2k_flash.c" "mc2k_uart.c" "mc2k_qspi0.c" "mc2k_i2c.c")
+
+ ("/root/Test/" (20216 19493) "../" "./" "fstest.c" "a.out")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/native/uart/" (20211 855) "uart_drv.c" "uart_rs485_drv.c~" "uart_sc16is750_drv.c~" "./" "uart_sc16is750_drv.c" "../" "uart_drv.dep" "uart_drv.c~" "Makefile" "libdrvuart.a" "uart_drv.o" "uart_rs485_drv.c")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/native/" (20206 54181) "spi_gpio/" "gspi/" "uart/" "./" "../" "Makefile.drivers" "i2c/" "i2c_gpio/" "gpio/")
+
+ ("/home/avasani/FreeRtos/freertos/" (20206 61877) "TraceCon/" "./" "readme.txt" "../" ".git/" "Source/" "TAGS" "License/" "Demo/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/WLAN/" (20208 7790) "tx_port.h" "eping.h" "tx_api.h" "dbg_Facility.h" "hostsme_sm.h" "wifi.h" "hostMsgHdr.h" "wmm_types.h" "peersta_api.h" "tlv.h" "userif_ext.h" "tlv_id.h" "sd878x.h" "bufferMgmtLib.h" "os_if.h" "timer.h" "userif.h" "mlan_ieee.h" "mlan_port.h" "mrvl.h" "wlpd.h" "customApp_mib.h" "packetType.h" "wepApi.h" "hal_spi.h" "./" "mlan_sdio.h" "hal_txinfo.h" "hal_gpio.h" "wl_rx_frame.h" "../" "tcpip_config.h" "wl_tx_frame.h" "threadx_types.h" "wl_mib.h" "os_if_pub.h" "osa.h" "nohostSecurityParams.h" "osa_config.h" "conf_tlv_id.h" "userif_11d.h" "wl_msgdefs.h" "keyMgmtCommon.h" "CryptoHA_API.h" "KeyApiStaDefs.h" "mlan_fw.h" "customApp.h" "supplicant.h" "ecl_hostcmd.h" "mib.h" "IEEE_WMM_types.h" "supplicantApi.h" "hal_pm.h" "gbl_types.h" "IPLayer.h" "mac_events.h" "hal_uart.h" "keyMgmtSta.h" "sysinfo.h" "hal_sys.h" "mrvlWlanPoolConfig.h" "gbl_config.h" "UartConfig.h" "queue.h" "wl_hal.h" "wl_macros.h" "host.h" "tcpip_socki.h")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/mc2k/gpio/uart/" (20202 64826) "uart_drv.c" "./" "../" "Makefile")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/arch/board/mc2k/" (20202 1001) "sys.dep" "uart_drv.c" "sys.o" "flash.o" "rfget.c" "flash.dep" "./" "boot_flags.o" "pwrmgr.o" "../" "uart_drv.dep" "Makefile" "libboard.a" "pwrmgr.dep" "sdio.dep" "rfget.dep" "boot_flags.dep" "flash.c" "rfget.o" "sys.c" "uart_drv.o" "pwrmgr.c" "sdio.c" "sdio.o" "boot_flags.c")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/arch/board/" (20145 21614) "stm3210e_eval/" "native/" "./" "../" "mc2k/" "losgatos/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/arch/" (20006 29979) "board/" "./" "../" "net/" "os/")
+
+ ("/home/avasani/Downloads/wmsdk-1.3.84-dev/sample_apps/wm_demo/src/" (20201 64948) "wm_demo_http_handlers.c" "wm_demo_cloud.o" "wm_demo_http.h" "wm_demo_http_handlers.dep" "wm_demo_event_simple.c" "wm_demo_1.04.axf" "wm_demo_drv_st.c" "wm_demo_app.o" "wm_demo_app.dep" "wm_demo_secure_provision.dep" "./" "wm_demo_secure_provision.o" "wm_demo_drv.c" "wm_demo_1.04_flash.bin" "wm_demo_app.h" "wm_demo_cloud.c" "wm_demo_1.04.ftfs" "../" "wm_demo_secure_provision.c" "wm_demo_event_led.c" "wm_demo_event_advanced.dep" "map.txt" "README.doxy" "Makefile" "wm_demo_cloud.h" "wm_demo_drv.h" "wm_demo_app.c" "wm_demo_drv.o" "doxy.conf" "wm_demo_drv.dep" "wm_demo_cloud.dep" "wm_demo_secure_provision.h" "wm_demo_event_advanced.o" "wm_demo_event_advanced.c" "wm_demo_http_handlers.o")
+
+ ("/home/avasani/Downloads/wmsdk-1.3.84-dev/sample_apps/wm_demo/" (20190 37528) "./" "html/" "../" "cloud/" "extras/" "html_secure/" "src/")
+
+ ("/home/avasani/Downloads/wmsdk-1.3.84-dev/sample_apps/" (20190 37535) "provisioning_demo/" "gspi_demo/" "wps_demo/" "./" "wm_demo/" "../" "Makefile" "helloworld/" "adhoc_demo/" "shared/" "io_demo/" "ezxml_demo/")
+
+ ("/home/avasani/Downloads/wmsdk-1.3.84-dev/" (20201 64880) "docs/" "sample_apps/" "./" ".config" "../" "images/" "incl/" "build/" ".kconfig.d" "libs/" "tools/" "version.txt" "Makefile" "src/" ".config.old")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/native/gpio/" (20201 51616) "gpio.o" "./" "../" "gpio.dep" "Makefile" "gpio.c~" "gpio.c" "libgpio.a")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/incl/threadx/" (20191 18887) "./" "../" "wm_os.h.orig" "wm_os.h.rej" "#wm_os.h#" "wm_os.h")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/mdev/" (20200 24608) "mdev.c" "libmdev.a" "./" "mdev.o" "../" "Makefile" "mdev.dep" "mdev_test.c" "#mdev.c#" "tests/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/drivers/native/gspi/" (20201 37097) "./" "../" "gspi_drv.c" "Makefile" "gspi_drv.c~")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/sample_apps/shared/" (20201 37097) "./" "../" "ping/" "Makefile")
+
+ ("/opt/" (20092 35764) "../" "./" "google/")
+
+ ("/home/avasani/FreeRtos/freertos/Demo/CORTEX_MC2K_GCC/driver/" (20199 4258) "inc/" "./" "../" "regs/" "src/")
+
+ ("/home/avasani/WMSDK-GIT/" (20005 42097) "wmsdk/" "./" "../")
+
+ ("/home/avasani/FreeRtos/freertos/Demo/" (20199 4258) "ARM7_STR75x_GCC/" "lwIP_MCF5235_GCC/" "ARM9_STR91X_IAR/" "CORTEX_LM3S102_GCC/" "H8S/" "MSP430X_MSP430F5438_CCS4/" "CORTEX_LM3S811_IAR/" "msp430_CrossWorks/" "PC/" "CORTEX_MB9A310_IAR_Keil/" "WizNET_DEMO_TERN_186/" "MSP430X_MSP430F5438_IAR/" "Flshlite/" "PIC18_WizC/" "PIC18_MPLAB/" "CORTEX_LM3Sxxxx_IAR_Keil/" "MB96340_Softune/" "uIP_Demo_IAR_ARM7/" "CORTEX_MPU_LPC1768_GCC_RedSuite/" "RX600_RX62N-RSK_GNURX/" "CORTEX_STM32F100_Atollic/" "CORTEX_LM3S102_KEIL/" "RX200_RX210-RSK_Renesas/" "CORTEX_STM32F103_IAR/" "PPC440_Xilinx_Virtex5_GCC/" "CORTEX_LM3S811_GCC/" "CORTEX_A2F200_IAR_and_Keil/" "ColdFire_MCF52221_CodeWarrior/" "CORTEX_LPC1768_GCC_Rowley/" "HCS12_CodeWarrior_banked/" "CORTEX_CY8C5588_PSoC_Creator_RVDS/" "./" "CORTEX_LPC1768_GCC_RedSuite/" "CORTEX_MC2K_GCC/" "MicroBlaze_Spartan-6_EthernetLite/" "MB96350_Softune_Dice_Kit/" "NiosII_CycloneIII_DBC3C40_GCC/" "CORTEX_STM32L152_IAR/" "CORTEX_LM3S102_Rowley/" "Cygnal/" "msp430_GCC/" "ARM7_LPC2368_Eclipse/" "AVR_ATMega323_WinAVR/" "CORTEX_STM32F107_GCC_Rowley/" "CORTEX_MPU_LM3Sxxxx_Rowley/" "PPC440_SP_FPU_Xilinx_Virtex5_GCC/" "CORTEX_Kinetis_K60_Tower_IAR/" "HCS12_CodeWarrior_small/" "CORTUS_APS3_GCC/" "readme.txt" "../" "ARM7_LPC2106_GCC/" "CORTEX_STM32F103_Primer_GCC/" "RX600_RX62N-RDK_IAR/" "ARM7_AT91SAM7X256_Eclipse/" "ColdFire_MCF52259_CodeWarrior/" "ColdFire_MCF52233_Eclipse/" "ColdFire_MCF5282_Eclipse/" "ARM7_LPC2129_Keil_RVDS/" "RX600_RX62N-RDK_Renesas/" "CORTEX_EFMG890F128_IAR/" "RL78_RL78G13_Promo_Board_IAR/" "PPC405_FPU_Xilinx_Virtex4_GCC/" "CORTEX_LPC1768_IAR/" "MB91460_Softune/" "lwIP_AVR32_UC3/" "AVR_ATMega323_IAR/" "PPC405_Xilinx_Virtex4_GCC/" "dsPIC_MPLAB/" "RX600_RX62N-RDK_GNURX/" "WizNET_DEMO_GCC_ARM7/" "WIN32-MingW/" "CORTEX_AT91SAM3U256_IAR/" "uIP_Demo_Rowley_ARM7/" "SuperH_SH7216_Renesas/" "RX600_RX62N-RSK_Renesas/" "PIC32MX_MPLAB/" "PPC440_DP_FPU_Xilinx_Virtex5_GCC/" "ARM7_LPC2129_IAR/" "ColdFire_MCF51CN128_CodeWarrior/" "msp430_IAR/" "CORTEX_STM32F103_GCC_Rowley/" "ARM7_AT91FR40008_GCC/" "MicroBlaze/" "NEC_78K0R_IAR/" "ARM7_LPC2138_Rowley/" "CORTEX_STM32F103_Keil/" "ARM7_AT91SAM7S64_IAR/" "ARM7_STR71x_IAR/" "Unsupported_Demos/" "AVR32_UC3/" "lwIP_Demo_Rowley_ARM7/" "ARM9_AT91SAM9XE_IAR/" "HCS12_GCC_banked/" "CORTEX_LM3Sxxxx_Rowley/" "Common/" "NEC_V850ES_IAR/" "CORTEX_LM3Sxxxx_Eclipse/" "PIC24_MPLAB/" "MCF5235_GCC/" "ARM7_STR75x_IAR/" "CORTEX_CY8C5588_PSoC_Creator_GCC/" "CORTEX_LM3S316_IAR/" "WIN32-MSVC/" "CORTEX_LM3S811_KEIL/" "RX600_RX62N-RSK_IAR/" "ARM7_LPC2368_Rowley/" "CORTEX_CY8C5588_PSoC_Creator_Keil/" "CORTEX_MB9B500_IAR_Keil/" "CORTEX_A2F200_SoftConsole/")
+
+ ("/home/avasani/WMSDK-CMC/stmfreertos/ST8786/FreeRTOS/V7.0.0/Source/" (20129 16918) "queue.c" "tasks.c.rej" "./" "readme.txt" "../" "tasks.c.orig" "list.c" "croutine.c" "TAGS" "portable/" "tasks.c" "timers.c" "include/")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/wifidriver/interface_native/" (20189 45159) "DataSwitch.c" "customApp.c" "sys_api.c" "interface_native.c" "./" "uart_ipsock.c" "../" "uart_ipsock.h" "version_sdk.c" "Makefile" "cpuscale_tests.c" "IPLayer.c" "eping.c")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/ssdp/" (20182 10602) "ssdp_priv.h.orig" "ssdp_cli.c" "ssdp_priv.h.rej" "ssdp_discover.c" "./" "ssdp_register.c" "ssdp_main.c.rej" "ssdp_main.c.orig" "../" "ssdp_priv.h" "Makefile" "ssdp_notify.c" "ssdp_main.c")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/core/wmtime/" (20147 54865) "time.dep" "./" "time.o" "../" "time.c" "swrtc.o" "wmtime_cli.o" "swrtc.dep" "wmtime_cli.dep" "swrtc.c" "Makefile" "wmtime_cli.c" "libwmtime.a" "tests/")
+
+ ("/home/avasani/WMSDK-CMC/stmfreertos/ST8786/Demo/Common/ethernet/lwIP/v1_4_0/src/include/lwip/" (20145 21477) "api.h" "lwipopts.h" "init.h" "memp.h" "sio.h" "sys.h" "mem.h" "arch.h" "api_msg.h" "opt.h" "debug.h" "./" "pbuf.h" "../" "netdb.h" "timers.h" "def.h" "sockets.h" "tcp.h" "snmp_structs.h" "tcpip.h" "netif.h" "tcp_impl.h" "snmp_asn1.h" "dns.h" "udp.h" "raw.h" "snmp.h" "netbuf.h" "err.h" "memp_std.h" "dhcp.h" "stats.h" "snmp_msg.h" "netifapi.h")
+
+ ("/home/avasani/WMSDK-GIT/wmsdk/WMSDK/src/middleware/provisioning/" (20100 14000) "provisioning.c" "web_handlers.dep" "web_handlers.c.rej" "./" "libprovisioning.a" "web_handlers.o" "../" "web_handlers.c" "provisioning.dep" "Makefile" "web_handlers.c.orig" "provisioning_priv.h" "README" "provisioning.o")
+
+ ("/home/avasani/MCM_GIT/scripts/" (20072 46974) "tags/" "Makefile.main" "installpkgs.sh" "clean_rfs.sh" "0001-1-Resolved-Fedora-and-Ubuntu-dependencies-for-build-.patch" "installpkgs" "squashfs_tools/" "sdk_gen/" "init_install" "./" "prepare_rules.sh" "populate_oe_native_tools.sh" "../" "repos_pull.sh" "Makefile.release" "Makefile.repo" "kconfig/" "scratch_build.sh" "Makefile.basic")
+
+ ("/home/avasani/MCM_GIT/" (20079 38925) "Rules.make" "0001-Resolved-Fedora-Ubuntu-compilation-dependencies.patch" "docs/" "Kconfig" "0001-Resolved-Fedora-Specific-Patch-Issue.patch" "0001-1-Resolved-Fedora-and-Ubuntu-dependencies-for-build-.patch" "test-infra/" "#0001-Resolved-Fedora-Specific-Patch-Issue.patch#" "oe/" "aa.txt" "./" ".config" ".repomap" "../" "wm_demo_discover (1).c" "boards/" ".git/" ".kconfig.d" "scripts/" "0002-Resolved-Fedora-Specific-Patch-Issue.patch" "Makefile" "ATT59395.emacs" "wm_demo_discover.c" "0001-Resolved-Fedora-and-Ubuntu-dependencies-for-build.patch" "marvell/" ".config.old")
+
+ ("/lost+found/" (20004 13099) "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
